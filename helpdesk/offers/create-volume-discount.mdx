@@ -1,0 +1,109 @@
+---
+title: "Create a Volume Discount"
+description: "Step-by-step guide to creating a volume discount offer with tiered pricing in AOV Bundle."
+---
+
+import { Steps, Callout, Cards } from 'nextra/components'
+
+# Create a Volume Discount
+
+Create a volume discount offer that rewards customers with bigger savings when they buy more. Set up tiered pricing with percentage, fixed amount, or fixed price discounts.
+
+<Callout type="info">
+  **Prerequisites:** AOV Bundle installed. At least one product in your store.
+</Callout>
+
+## Overview
+
+A Volume Discount offer displays a pricing table on your product pages showing customers how much they save at each quantity tier. For example: "Buy 2, save 10%. Buy 3, save 20%."
+
+## Steps
+
+<Steps>
+
+### Step 1: Create a new Volume Discount offer
+
+Navigate to **Offers** in the sidebar, click **Create new offer**, then click **Create** on the **Volume Discount** card.
+
+![Create Volume Discount](/images/create-volume-discount/step-1.png)
+
+### Step 2: Enter the offer name
+
+In the **Offer Info** section, enter a name for your offer in the **Offer name** field. This name is for your internal reference — customers won't see it.
+
+![Enter offer name](/images/create-volume-discount/step-2.png)
+
+### Step 3: Set trigger conditions
+
+In the **Trigger Conditions** section, choose which products will trigger this offer. Select specific products or entire collections. You can also exclude certain products or collections.
+
+![Set trigger conditions](/images/create-volume-discount/step-3.png)
+
+### Step 4: Choose the discount type
+
+In the **Discount Tier** section, select the **Discount type** from the dropdown:
+- **% Discount** — Percentage off the price
+- **$ Discount** — Fixed amount off the price
+- **Fixed Price** — Set a specific price (available when triggered by specific product)
+
+![Choose discount type](/images/create-volume-discount/step-4.png)
+
+### Step 5: Configure discount tiers
+
+Click on the tier buttons (Tier 1, Tier 2, etc.) to configure each tier. For each tier, set:
+- **Product quantity** — Minimum items to qualify
+- **Discount value** — The discount amount
+- **Title** — Display text (e.g., "Buy 2 & Save 10%")
+- **Subtitle** — Additional description
+
+Click **Add Tier** to add more tiers. You can also click **AI Suggestion** to auto-generate tier values.
+
+![Configure discount tiers](/images/create-volume-discount/step-5.png)
+
+### Step 6: Add a gift product (optional)
+
+Enable the **Add Gift** toggle to include a free or discounted gift when customers reach a tier. Select the gift product, set the gift discount type, and configure the gift quantity.
+
+![Add gift product](/images/create-volume-discount/step-6.png)
+
+### Step 7: Configure display settings
+
+Click **Next: Display setting** to customize the offer widget appearance. Choose colors, layout (vertical or horizontal), and text styling to match your store's theme.
+
+![Display settings](/images/create-volume-discount/step-7.png)
+
+### Step 8: Save the offer
+
+Click **Save** to create your offer. The offer will be saved in **Draft** status. To make it live, go back to the offer list and toggle the status to **Active**.
+
+![Save the offer](/images/create-volume-discount/step-8.png)
+
+</Steps>
+
+<Callout type="warning">
+  You can set a **Schedule** for your offer to automatically activate and deactivate at specific dates. Expand the **Schedule** section before saving to configure this.
+</Callout>
+
+## What's Next
+
+<Cards>
+  <Cards.Card
+    title="Manage Your Offers"
+    href="/docs/offers/manage-offers"
+    arrow
+  />
+  <Cards.Card
+    title="Set Offer Trigger Conditions"
+    href="/docs/offers/offer-triggers"
+    arrow
+  />
+  <Cards.Card
+    title="Customize Widget Appearance"
+    href="/docs/design/customize-widget"
+    arrow
+  />
+</Cards>
+
+---
+
+*Was this article helpful? [Let us know](https://github.com/anthropics/claude-code/issues).*

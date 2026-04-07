@@ -1,0 +1,100 @@
+---
+title: "Create a Bundle Builder"
+description: "Step-by-step guide to creating a Build Your Own Bundle offer with list or category layout in AOV Bundle."
+---
+
+import { Steps, Callout, Cards } from 'nextra/components'
+
+# Create a Bundle Builder
+
+Create a Bundle Builder offer that lets customers build their own custom bundle from a curated product selection. Choose between a list layout or category-based layout with quantity rules.
+
+<Callout type="info">
+  **Prerequisites:** AOV Bundle installed. Products organized in collections (recommended for category layout).
+</Callout>
+
+## Overview
+
+A Bundle Builder displays a dedicated page or widget where customers pick products to build their own bundle at a discounted price. The category layout lets you organize products into groups with rules like "pick at least 2 from each category."
+
+## Steps
+
+<Steps>
+
+### Step 1: Create a new Bundle Builder offer
+
+Navigate to **Offers** → **Create new offer**, then click **Create** on the **Bundle Builder** card.
+
+![Create Bundle Builder](/images/create-bundle-builder/step-1.png)
+
+### Step 2: Enter the offer name
+
+In the **Bundle Information** section, enter a descriptive name for your bundle in the **Offer name** field.
+
+![Enter offer name](/images/create-bundle-builder/step-2.png)
+
+### Step 3: Choose the layout type
+
+In the **Trigger Conditions** section, select the **Layout Type**:
+- **List layout** — All products displayed in a single browsable list
+- **Category layout** — Products organized into named categories with quantity rules
+
+![Choose layout type](/images/create-bundle-builder/step-3.png)
+
+### Step 4: Configure categories (category layout)
+
+If you chose **Category layout**, set up your bundle categories:
+- Enter a **Category name** for each group
+- Use the product browser to add products to each category
+- Set a **Category rule** (Equal, At least, Most) to control how many items customers must pick
+- Click **Add category** to create additional categories (up to 5)
+
+![Configure categories](/images/create-bundle-builder/step-4.png)
+
+### Step 5: Set up discounts
+
+In the **Discount Settings** section, configure the discount type and value that applies when customers complete their bundle.
+
+![Set up discounts](/images/create-bundle-builder/step-5.png)
+
+### Step 6: Customize the display
+
+Click **Next: Display setting** to customize the bundle builder widget. Configure the **Offer Content** text, colors, and the **Redirect after Add to Cart** behavior.
+
+![Customize display](/images/create-bundle-builder/step-6.png)
+
+### Step 7: Save the offer
+
+Click **Save** to create the Bundle Builder. Activate it from the offer list to make it live on your store.
+
+![Save the offer](/images/create-bundle-builder/step-7.png)
+
+</Steps>
+
+<Callout type="warning">
+  When using category layout, make sure each category has enough products for customers to meet the category rules. A preview widget on the sidebar helps you verify the bundle structure.
+</Callout>
+
+## What's Next
+
+<Cards>
+  <Cards.Card
+    title="Create a Product Fixed Bundle"
+    href="/docs/offers/create-product-fixed-bundle"
+    arrow
+  />
+  <Cards.Card
+    title="Create a Mix-and-Match Bundle"
+    href="/docs/offers/create-mix-match"
+    arrow
+  />
+  <Cards.Card
+    title="Manage Your Offers"
+    href="/docs/offers/manage-offers"
+    arrow
+  />
+</Cards>
+
+---
+
+*Was this article helpful? [Let us know](https://github.com/anthropics/claude-code/issues).*

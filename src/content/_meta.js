@@ -1,0 +1,8 @@
+export default {
+  index: 'Welcome',
+  'getting-started': 'Getting Started',
+  offers: 'Offers',
+  design: 'Design',
+  analytics: 'Analytics',
+  settings: 'Settings'
+}
