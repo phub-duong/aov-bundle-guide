@@ -26,7 +26,7 @@ Start by navigating to the offer creation page and selecting the FBT offer type.
 3. Select **Frequently Bought Together** from the offer type list.
 4. Click **Create** to proceed.
 
-![Select Frequently Bought Together offer type](../public/images/create-fbt/step-1.png)
+![Select Frequently Bought Together offer type](/.gitbook/assets/create-fbt/step-1.png)
 
 ### Step 2: Configure trigger conditions
 
@@ -38,7 +38,7 @@ Define which products will trigger the FBT widget on their product pages.
 2. Click **Browse** to search and select your trigger products or collections.
 3. (Optional) Use **Exclude products** or **Exclude collections** to remove specific items from the trigger.
 
-![Configure trigger conditions](../public/images/create-fbt/step-2.png)
+![Configure trigger conditions](/.gitbook/assets/create-fbt/step-2.png)
 
 ### Step 3: Select bundle products
 
@@ -52,7 +52,7 @@ Choose the products that will appear as recommended items in the FBT widget.
 2. Add 2 or more products to create a meaningful bundle.
 3. (Optional) Click **Add free gift** to attach a gift product when customers buy all items.
 
-![Select bundle products](../public/images/create-fbt/step-3.png)
+![Select bundle products](/.gitbook/assets/create-fbt/step-3.png)
 
 ### Step 4: Set up discount settings
 
@@ -69,7 +69,7 @@ Configure the discount that customers receive when they purchase the bundle.
    - **Order discounts**
    - **Shipping discounts**
 
-![Set up discount settings](../public/images/create-fbt/step-4.png)
+![Set up discount settings](/.gitbook/assets/create-fbt/step-4.png)
 
 ### Step 5: Configure advanced settings
 
@@ -82,7 +82,7 @@ Fine-tune your offer with additional options.
    - **Pricing option** — Toggle **Show prices per item**, **Hide option's compare-at price**, or **Use the product's compare-at price**.
 2. Enter an **Offer name** in the **Offer information** section. This name is internal only — your customers will not see it.
 
-![Configure advanced settings](../public/images/create-fbt/step-5.png)
+![Configure advanced settings](/.gitbook/assets/create-fbt/step-5.png)
 
 ### Step 6: Preview and save
 
@@ -92,7 +92,7 @@ Review the offer before publishing.
 2. (Optional) Click **Next: Display setting** to customize the widget appearance before saving.
 3. Click **Save** to activate the offer.
 
-![Preview and save](../public/images/create-fbt/step-6.png)
+![Preview and save](/.gitbook/assets/create-fbt/step-6.png)
 
 
 Leverage the **Frequently Bought Together** feature to suggest complementary products and increase your average order value. Start creating your first FBT offer today!

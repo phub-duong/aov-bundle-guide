@@ -19,7 +19,7 @@ AOV Bundle offers different subscription plans with varying feature sets. Access
 
 Your subscription status is visible in the app. Navigate to the subscription section to see your current plan details and available features.
 
-![Subscription overview](../public/images/manage-subscription/step-1.png)
+![Subscription overview](/.gitbook/assets/manage-subscription/step-1.png)
 
 ### Step 2: Review your current plan
 
@@ -28,19 +28,19 @@ Check your current plan details including:
 - Included features and limits
 - Billing cycle information
 
-![Current plan details](../public/images/manage-subscription/step-2.png)
+![Current plan details](/.gitbook/assets/manage-subscription/step-2.png)
 
 ### Step 3: Upgrade your plan
 
 If you need access to premium features like additional offer types, higher limits, or advanced analytics, click the **Upgrade** button on a higher-tier plan card. You will be redirected to the Shopify billing approval page.
 
-![Upgrade plan](../public/images/manage-subscription/step-3.png)
+![Upgrade plan](/.gitbook/assets/manage-subscription/step-3.png)
 
 ### Step 4: Confirm billing on Shopify
 
 After clicking Upgrade, Shopify shows a billing approval page with the plan price and billing cycle. Click **Approve** to confirm the subscription change. The new features become available immediately.
 
-![Approve billing](../public/images/manage-subscription/step-4.png)
+![Approve billing](/.gitbook/assets/manage-subscription/step-4.png)
 
 
 > **Warning:** Plan changes take effect immediately. If you downgrade, some features may become unavailable. Make sure to review what's included in each plan before changing.

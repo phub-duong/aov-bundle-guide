@@ -31,7 +31,7 @@ Customize how the Volume Discount widget looks on your storefront. Go to **AOV.a
    - **Cart page** — Customer is redirected to the cart.
    - **Checkout page** — Customer goes straight to checkout.
 
-![Widget layout and content](../public/images/volume-display/display-step-1.png)
+![Widget layout and content](/.gitbook/assets/volume-display/display-step-1.png)
 
 ### Step 2: Theme and content settings
 
@@ -57,7 +57,7 @@ This tab controls the **visual style** of the Volume Discount widget.
    - **Show line title** — Display a title line for each tier.
    - **Gradient background** — Apply a gradient to the selected tier.
 
-![Theme settings](../public/images/volume-display/display-step-2a.png)
+![Theme settings](/.gitbook/assets/volume-display/display-step-2a.png)
 
 #### Content setting
 
@@ -69,13 +69,13 @@ This tab controls the **text labels** inside the widget.
    - Button text ("Add to cart" or "Grab the deal").
 2. **Translations** — Click **Translation**, select a language, and customize each label. Keep variables like `{{discount_value}}` intact.
 
-![Content settings](../public/images/volume-display/display-step-2b.png)
+![Content settings](/.gitbook/assets/volume-display/display-step-2b.png)
 
 ### Step 3: Preview and save
 
 Look at the **live preview panel on the right** to see your changes in real time. When you are satisfied with the design, click **Save** to apply your settings.
 
-![Preview and save](../public/images/volume-display/display-step-3.png)
+![Preview and save](/.gitbook/assets/volume-display/display-step-3.png)
 
 
 Your Volume Discount widget is now customized and ready to display tiered savings to your customers!

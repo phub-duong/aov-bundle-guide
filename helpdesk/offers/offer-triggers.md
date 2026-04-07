@@ -19,13 +19,13 @@ Trigger conditions determine which product pages display your offer widget. You 
 
 Navigate to **Offers** in the sidebar and click on the offer you want to configure. The offer editor opens on the **Offer setting** tab.
 
-![Open offer editor](../public/images/offer-triggers/step-1.png)
+![Open offer editor](/.gitbook/assets/offer-triggers/step-1.png)
 
 ### Step 2: Locate the Trigger Conditions section
 
 Scroll down to the **Trigger Conditions** section in the offer form. This section controls which products will display your offer.
 
-![Trigger Conditions section](../public/images/offer-triggers/step-2.png)
+![Trigger Conditions section](/.gitbook/assets/offer-triggers/step-2.png)
 
 ### Step 3: Select a trigger condition type
 
@@ -34,25 +34,25 @@ Click the **Trigger condition** dropdown to select how the offer is triggered:
 - **Specific collections** — Display the offer on all products in selected collections
 - **All products** — Show the offer on every product page
 
-![Select trigger type](../public/images/offer-triggers/step-3.png)
+![Select trigger type](/.gitbook/assets/offer-triggers/step-3.png)
 
 ### Step 4: Select products or collections
 
 After choosing a trigger type, use the product or collection browser to select the specific items. Click **Browse** to open the selection modal, search for products, and check the ones you want.
 
-![Select products](../public/images/offer-triggers/step-4.png)
+![Select products](/.gitbook/assets/offer-triggers/step-4.png)
 
 ### Step 5: Exclude products (optional)
 
 If you want to exclude certain items, expand the exclusion options below the trigger selection. Add specific products or collections that should not display this offer even if they match the trigger condition.
 
-![Exclude products](../public/images/offer-triggers/step-5.png)
+![Exclude products](/.gitbook/assets/offer-triggers/step-5.png)
 
 ### Step 6: Save changes
 
 Click **Save** to apply the updated trigger conditions. The offer will now only appear on the product pages that match your configured triggers.
 
-![Save changes](../public/images/offer-triggers/step-6.png)
+![Save changes](/.gitbook/assets/offer-triggers/step-6.png)
 
 
 > **Warning:** If you change trigger conditions on an active offer, the changes take effect immediately. Customers will see the offer on the new target products right away.

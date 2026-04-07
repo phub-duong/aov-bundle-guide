@@ -26,7 +26,7 @@ Navigate to the offer creation page and select Bundle Builder.
 3. Select **Bundle Builder** from the offer type list.
 4. Click **Create** to proceed.
 
-![Select Bundle Builder offer type](../public/images/create-bundle-builder/step-1.png)
+![Select Bundle Builder offer type](/.gitbook/assets/create-bundle-builder/step-1.png)
 
 ### Step 2: Add product categories
 
@@ -40,7 +40,7 @@ Organize your bundle products into categories for easy customer browsing.
 3. Set the **Quantity rule** for each category to define how many items customers must select.
 4. Add as many categories as needed by clicking **Add category** again.
 
-![Add product categories](../public/images/create-bundle-builder/step-2.png)
+![Add product categories](/.gitbook/assets/create-bundle-builder/step-2.png)
 
 ### Step 3: Configure discount settings
 
@@ -55,7 +55,7 @@ Set up tiered discounts that increase as customers add more products.
    - **Value** — The discount value for that tier.
 4. Click **Add tier** to create additional discount levels.
 
-![Configure discount settings](../public/images/create-bundle-builder/step-3.png)
+![Configure discount settings](/.gitbook/assets/create-bundle-builder/step-3.png)
 
 ### Step 4: Customize offer content and promotion
 
@@ -70,7 +70,7 @@ Configure the text and promotional elements that customers see.
    - **Show on included products page** — Display a widget on component product pages to promote your bundle offer.
    - Customize **Promotion Title**, **Badge Label**, **Button Label**, **Tag Label**, and **See More Label**.
 
-![Customize offer content](../public/images/create-bundle-builder/step-4.png)
+![Customize offer content](/.gitbook/assets/create-bundle-builder/step-4.png)
 
 ### Step 5: Configure advanced settings
 
@@ -84,7 +84,7 @@ Fine-tune scheduling, eligibility, and other options.
 2. Enter an **Offer name** in the **Offer information** section. This name is internal only.
 3. Set the **Status** to **Active** or **Draft**.
 
-![Configure advanced settings](../public/images/create-bundle-builder/step-5.png)
+![Configure advanced settings](/.gitbook/assets/create-bundle-builder/step-5.png)
 
 ### Step 6: Preview and save
 
@@ -94,7 +94,7 @@ Review the bundle page before publishing.
 2. Click **Save** to create the bundle.
 3. If prompted, click **Configure theme** to add the bundle page to your store navigation.
 
-![Preview and save](../public/images/create-bundle-builder/step-6.png)
+![Preview and save](/.gitbook/assets/create-bundle-builder/step-6.png)
 
 
 Use **Bundle Builder** to let customers create their own custom bundles while enjoying tiered discounts. Start building your first bundle page today!

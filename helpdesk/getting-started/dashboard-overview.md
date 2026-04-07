@@ -25,31 +25,31 @@ The left sidebar contains the main navigation menu. Click any item to navigate b
 - **Free Gift** — Set up free gift campaigns
 - **Analytics** — Track offer performance
 
-![Navigation sidebar](../public/images/dashboard-overview/step-1.png)
+![Navigation sidebar](/.gitbook/assets/dashboard-overview/step-1.png)
 
 ### Step 2: Check the Quick Start widget
 
 The **Quick Start** section shows your current offer count and provides shortcuts to create your first offers. Complete the suggested tasks to get up and running quickly.
 
-![Quick Start widget](../public/images/dashboard-overview/step-2.png)
+![Quick Start widget](/.gitbook/assets/dashboard-overview/step-2.png)
 
 ### Step 3: View the Dashboard Report
 
 Below Quick Start, the **Dashboard Report** displays key performance metrics including revenue generated, additional revenue from bundles, and active campaign data.
 
-![Dashboard Report](../public/images/dashboard-overview/step-3.png)
+![Dashboard Report](/.gitbook/assets/dashboard-overview/step-3.png)
 
 ### Step 4: Access the Help Center
 
 At the bottom of the dashboard, the **Help Center** widget provides quick links to documentation, support resources, and feature guides.
 
-![Help Center](../public/images/dashboard-overview/step-4.png)
+![Help Center](/.gitbook/assets/dashboard-overview/step-4.png)
 
 ### Step 5: Choose your language
 
 Click the **Choose Language** button at the top right of the page to change the app interface language.
 
-![Choose Language button](../public/images/dashboard-overview/step-5.png)
+![Choose Language button](/.gitbook/assets/dashboard-overview/step-5.png)
 
 
 > **Warning:** Dashboard metrics may take a few minutes to update after creating or modifying offers. Refresh the page to see the latest data.

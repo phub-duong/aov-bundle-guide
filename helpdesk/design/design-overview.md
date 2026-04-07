@@ -13,7 +13,7 @@ AOV Bundle provides dedicated widget designs for each offer type. Customize colo
 
 Navigate to **Widget Display** in the left sidebar to access the design editor. You will see design type cards for each offer widget. Each design type has its own set of customization options.
 
-![Design type selection page](../public/images/design-overview/step-1.png)
+![Design type selection page](/.gitbook/assets/design-overview/step-1.png)
 
 ## Available Design Types
 

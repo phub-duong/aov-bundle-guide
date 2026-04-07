@@ -31,7 +31,7 @@ Customize how the Bundle Builder widget looks on your storefront. Go to **AOV.ai
 
 3. **Translation** — Click **Translation** to add text in other languages. Keep any variables intact.
 
-![Widget content settings](../public/images/bundle-builder-display/display-step-1.png)
+![Widget content settings](/.gitbook/assets/bundle-builder-display/display-step-1.png)
 
 ### Step 2: Theme and content settings
 
@@ -55,7 +55,7 @@ This tab controls the **visual style** of the Bundle Builder widget.
 4. **Badge & saving colors**: Badge background, text, and saving tag colors.
 5. **Themes** — Choose a preset color theme.
 
-![Theme settings](../public/images/bundle-builder-display/display-step-2a.png)
+![Theme settings](/.gitbook/assets/bundle-builder-display/display-step-2a.png)
 
 #### Content setting
 
@@ -70,13 +70,13 @@ This tab controls the **text labels** inside the widget.
 3. **Stock validation** — Customize the **Stock Validation Message**.
 4. **Translations** — Click **Translation**, select a language, and translate each label.
 
-![Content settings](../public/images/bundle-builder-display/display-step-2b.png)
+![Content settings](/.gitbook/assets/bundle-builder-display/display-step-2b.png)
 
 ### Step 3: Preview and save
 
 Look at the **live preview panel on the right** to see your changes in real time. When you are satisfied, click **Save** to apply your settings.
 
-![Preview and save](../public/images/bundle-builder-display/display-step-3.png)
+![Preview and save](/.gitbook/assets/bundle-builder-display/display-step-3.png)
 
 
 Your Bundle Builder widget is now styled and ready for customers to create their own custom bundles!

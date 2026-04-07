@@ -25,7 +25,7 @@ Customize how the Mix-and-Match Bundle widget looks on your storefront. Go to **
 
 3. **Translation** — Click **Translation** to add text in other languages. Keep variables like `{{discount_value}}` intact.
 
-![Widget content settings](../public/images/mix-match-display/display-step-1.png)
+![Widget content settings](/.gitbook/assets/mix-match-display/display-step-1.png)
 
 ### Step 2: Theme and content settings
 
@@ -43,7 +43,7 @@ This tab controls the **visual style** of the Mix-and-Match Bundle widget.
      - **Badge discount**: Background and text colors.
 2. **Themes** — Choose a preset color theme from the available options.
 
-![Theme settings](../public/images/mix-match-display/display-step-2a.png)
+![Theme settings](/.gitbook/assets/mix-match-display/display-step-2a.png)
 
 #### Content setting
 
@@ -55,13 +55,13 @@ This tab controls the **text labels** inside the widget.
    - Button text and badge text.
 2. **Translations** — Click **Translation**, select a language, and translate each label. Keep variables intact.
 
-![Content settings](../public/images/mix-match-display/display-step-2b.png)
+![Content settings](/.gitbook/assets/mix-match-display/display-step-2b.png)
 
 ### Step 3: Preview and save
 
 Look at the **live preview panel on the right** to see your changes. When satisfied, click **Save** to apply your settings.
 
-![Preview and save](../public/images/mix-match-display/display-step-3.png)
+![Preview and save](/.gitbook/assets/mix-match-display/display-step-3.png)
 
 
 Your Mix-and-Match Bundle widget is now customized and ready for customers to build their own bundles!

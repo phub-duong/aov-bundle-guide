@@ -26,7 +26,7 @@ Navigate to the offer creation page and select the Volume Discount type.
 3. Select **Volume Discount** from the offer type list.
 4. Click **Create** to proceed.
 
-![Select Volume Discount offer type](../public/images/create-volume-discount/step-1.png)
+![Select Volume Discount offer type](/.gitbook/assets/create-volume-discount/step-1.png)
 
 ### Step 2: Configure trigger conditions
 
@@ -38,7 +38,7 @@ Define which products will show the volume discount table.
 2. Click **Browse** to search and select your trigger products or collections.
 3. (Optional) Configure **Markets** to limit the offer to specific Shopify markets. Default is **All Markets**.
 
-![Configure trigger conditions](../public/images/create-volume-discount/step-2.png)
+![Configure trigger conditions](/.gitbook/assets/create-volume-discount/step-2.png)
 
 ### Step 3: Set up discount tiers
 
@@ -55,7 +55,7 @@ Create the tiered pricing structure for your volume discount.
 4. (Optional) Toggle **Set as default** to pre-select a tier for customers.
 5. (Optional) Toggle **Enable badge** to show a badge label on a tier (e.g., "Most popular").
 
-![Set up discount tiers](../public/images/create-volume-discount/step-3.png)
+![Set up discount tiers](/.gitbook/assets/create-volume-discount/step-3.png)
 
 ### Step 4: Configure offer widget and content
 
@@ -74,7 +74,7 @@ Customize the text and display options for the volume discount widget.
 4. (Optional) Toggle **Display custom image** to show a custom image instead of the product thumbnail.
 5. (Optional) Enable **Countdown timer** to add urgency. Configure the timer format and position.
 
-![Configure offer widget](../public/images/create-volume-discount/step-4.png)
+![Configure offer widget](/.gitbook/assets/create-volume-discount/step-4.png)
 
 ### Step 5: Configure advanced settings
 
@@ -87,7 +87,7 @@ Fine-tune your offer with scheduling, eligibility, and pricing options.
    - **Pricing option** — Toggle **Show prices per item**, **Apply discount for exact quantity only**, or **Use the product's compare-at price**.
 2. Enter an **Offer name** in the **Offer information** section. This name is internal only.
 
-![Configure advanced settings](../public/images/create-volume-discount/step-5.png)
+![Configure advanced settings](/.gitbook/assets/create-volume-discount/step-5.png)
 
 ### Step 6: Preview and save
 
@@ -96,7 +96,7 @@ Review the offer before publishing.
 1. Look at the **Preview** panel on the right to see how the volume discount table will appear on the product page.
 2. Click **Save** to activate the offer.
 
-![Preview and save](../public/images/create-volume-discount/step-6.png)
+![Preview and save](/.gitbook/assets/create-volume-discount/step-6.png)
 
 
 Use **Volume Discount** to reward bulk buyers with tiered savings and watch your average order value grow. Start creating your first volume discount offer today!

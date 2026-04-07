@@ -26,7 +26,7 @@ Navigate to the offer creation page and select Mix-and-Match Bundle.
 3. Select **Mix-and-match bundle** from the offer type list.
 4. Click **Create** to proceed.
 
-![Select Mix-and-Match Bundle offer type](../public/images/create-mix-match/step-1.png)
+![Select Mix-and-Match Bundle offer type](/.gitbook/assets/create-mix-match/step-1.png)
 
 ### Step 2: Configure bundle options
 
@@ -42,7 +42,7 @@ Define the product options that customers can choose from.
 
 > **Info:** Each option represents one selection the customer makes. For example, a "Build Your Outfit" bundle might have options for Top, Bottom, and Accessory.
 
-![Configure bundle options](../public/images/create-mix-match/step-2.png)
+![Configure bundle options](/.gitbook/assets/create-mix-match/step-2.png)
 
 ### Step 3: Set up discount settings
 
@@ -54,7 +54,7 @@ Configure the discount customers receive when they complete the bundle.
    - **Fixed price** — Set a fixed price for the entire bundle regardless of individual product prices (e.g., Buy bundle for $100).
 2. Enter the **Value** for your discount.
 
-![Set up discount settings](../public/images/create-mix-match/step-3.png)
+![Set up discount settings](/.gitbook/assets/create-mix-match/step-3.png)
 
 ### Step 4: Customize widget display and content
 
@@ -70,7 +70,7 @@ Configure the text and appearance of the bundle widget.
    - **Promotion Title**, **Promotion Badge Label**, **Promotion Button Label**.
    - **See more text**, **Badge Text**, **'From' Text**.
 
-![Customize widget display](../public/images/create-mix-match/step-4.png)
+![Customize widget display](/.gitbook/assets/create-mix-match/step-4.png)
 
 ### Step 5: Configure advanced settings
 
@@ -83,7 +83,7 @@ Fine-tune scheduling, eligibility, and offer details.
 5. (Optional) Configure **Discount combinations** — Allow combining with product, order, or shipping discounts.
 6. (Optional) Set **Maximum discount uses** — Limit total uses or one use per customer.
 
-![Configure advanced settings](../public/images/create-mix-match/step-5.png)
+![Configure advanced settings](/.gitbook/assets/create-mix-match/step-5.png)
 
 ### Step 6: Preview and save
 
@@ -92,7 +92,7 @@ Review the bundle page before publishing.
 1. Look at the **Preview** panel to see how the mix-and-match bundle page will appear.
 2. Click **Save** to create the bundle offer.
 
-![Preview and save](../public/images/create-mix-match/step-6.png)
+![Preview and save](/.gitbook/assets/create-mix-match/step-6.png)
 
 
 Use **Mix-and-Match Bundle** to let customers build their dream bundle from your curated options. Start creating your first mix-and-match offer today!

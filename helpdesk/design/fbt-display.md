@@ -31,7 +31,7 @@ Customize how the Frequently Bought Together widget looks on your storefront. Go
    - **Cart page** — Customer is redirected to the cart.
    - **Checkout page** — Customer goes straight to checkout.
 
-![Widget content settings](../public/images/fbt-display/display-step-1.png)
+![Widget content settings](/.gitbook/assets/fbt-display/display-step-1.png)
 
 ### Step 2: Theme and content settings
 
@@ -50,7 +50,7 @@ This tab controls the **visual style** of the Frequently Bought Together widget.
    - **Show line title** — Display a title for each product row.
    - **Gradient background** — Enable a gradient effect on the selected tier background.
 
-![Theme settings](../public/images/fbt-display/display-step-2a.png)
+![Theme settings](/.gitbook/assets/fbt-display/display-step-2a.png)
 
 #### Content setting
 
@@ -63,13 +63,13 @@ This tab controls the **text and wording** inside the widget.
    - **'Add to cart' button**: The button text.
 2. **Translations** — Click **Translation**, select a language, and translate each label. Keep variables like `{{total_items}}` intact.
 
-![Content settings](../public/images/fbt-display/display-step-2b.png)
+![Content settings](/.gitbook/assets/fbt-display/display-step-2b.png)
 
 ### Step 3: Preview and save
 
 Look at the **live preview panel on the right** to see your changes in real time. When you are satisfied with the design, click **Save** to apply your settings.
 
-![Preview and save](../public/images/fbt-display/display-step-3.png)
+![Preview and save](/.gitbook/assets/fbt-display/display-step-3.png)
 
 
 Your Frequently Bought Together widget is now styled and ready to go! Customers will see your curated product recommendations right on the product page.

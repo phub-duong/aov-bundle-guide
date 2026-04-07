@@ -19,7 +19,7 @@ Access app settings by clicking **Settings** in the app. The Settings page is av
 
 Click the gear icon or navigate to the **Settings** section from within the app. The Settings page displays your current app configuration.
 
-![Settings page](../public/images/app-settings/step-1.png)
+![Settings page](/.gitbook/assets/app-settings/step-1.png)
 
 ### Step 2: Review store configuration
 
@@ -28,19 +28,19 @@ The settings page shows your current store configuration including:
 - **Language preferences** — The app interface language
 - **Market data** — Multi-market and multi-currency settings
 
-![Store configuration](../public/images/app-settings/step-2.png)
+![Store configuration](/.gitbook/assets/app-settings/step-2.png)
 
 ### Step 3: Configure language
 
 Use the **Choose Language** option (also available from the dashboard top-right) to change the app interface language. This affects how the app admin UI is displayed to you.
 
-![Configure language](../public/images/app-settings/step-3.png)
+![Configure language](/.gitbook/assets/app-settings/step-3.png)
 
 ### Step 4: Save settings
 
 After making changes, click **Save** to apply your updated settings.
 
-![Save settings](../public/images/app-settings/step-4.png)
+![Save settings](/.gitbook/assets/app-settings/step-4.png)
 
 
 > **Warning:** Currency format changes affect how prices are displayed in your offer widgets. Make sure the format matches your Shopify store's currency settings.

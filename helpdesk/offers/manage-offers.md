@@ -19,7 +19,7 @@ The offer list page shows all your offers in a table with their name, type, stat
 
 Click **Offers** in the left sidebar to open the offer list page. You will see a table of all your offers with a **Create new offer** button at the top.
 
-![Offer list page](../public/images/manage-offers/step-1.png)
+![Offer list page](/.gitbook/assets/manage-offers/step-1.png)
 
 ### Step 2: Filter offers by status
 
@@ -30,19 +30,19 @@ Use the filter bar at the top of the table to filter offers by status. Available
 - **Expired** — Past their end date (red badge)
 - **Draft** — Not yet activated (blue badge)
 
-![Filter by status](../public/images/manage-offers/step-2.png)
+![Filter by status](/.gitbook/assets/manage-offers/step-2.png)
 
 ### Step 3: Activate or pause an offer
 
 In the **Actions** column, click the **Play** icon to activate a draft offer, or click the **Pause** icon to pause an active offer. The status badge updates immediately.
 
-![Activate or pause offer](../public/images/manage-offers/step-3.png)
+![Activate or pause offer](/.gitbook/assets/manage-offers/step-3.png)
 
 ### Step 4: Edit an offer
 
 Click the **Edit** icon (pencil) in the Actions column, or click directly on the offer name to open the offer editor.
 
-![Edit an offer](../public/images/manage-offers/step-4.png)
+![Edit an offer](/.gitbook/assets/manage-offers/step-4.png)
 
 ### Step 5: Duplicate or delete an offer
 
@@ -50,19 +50,19 @@ Click the **three-dot menu** icon in the Actions column to see additional option
 - **Duplicate** — Create a copy of the offer with all settings
 - **Delete** — Permanently remove the offer
 
-![Duplicate or delete](../public/images/manage-offers/step-5.png)
+![Duplicate or delete](/.gitbook/assets/manage-offers/step-5.png)
 
 ### Step 6: Bulk delete offers
 
 Select multiple offers using the checkboxes on the left side of the table, then click the **Delete offers** bulk action button that appears at the top.
 
-![Bulk delete offers](../public/images/manage-offers/step-6.png)
+![Bulk delete offers](/.gitbook/assets/manage-offers/step-6.png)
 
 ### Step 7: View offer analytics
 
 Click the **Analytics** icon (chart) in the Actions column to jump directly to the performance analytics for that specific offer.
 
-![View offer analytics](../public/images/manage-offers/step-7.png)
+![View offer analytics](/.gitbook/assets/manage-offers/step-7.png)
 
 
 > **Warning:** Deleting an offer is permanent and cannot be undone. Consider pausing an offer instead if you may want to reactivate it later.

@@ -13,7 +13,7 @@ AOV Bundle provides five powerful offer types to help you increase your store's 
 
 To create an offer, navigate to **Offers** in the sidebar and click **Create new offer**. You will see a selection page with all available offer types displayed as cards with descriptions and preview options.
 
-![Offer type selection page](../public/images/offers-overview/step-1.png)
+![Offer type selection page](/.gitbook/assets/offers-overview/step-1.png)
 
 ## Offer Types
 

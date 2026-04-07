@@ -19,37 +19,37 @@ The auto-fit feature reads your current Shopify theme's color scheme (background
 
 Navigate to **Widget Display** in the sidebar and click on the design type you want to auto-fit (e.g., **Volume Table**).
 
-![Open design editor](../public/images/theme-auto-fit/step-1.png)
+![Open design editor](/.gitbook/assets/theme-auto-fit/step-1.png)
 
 ### Step 2: Locate the theme settings
 
 In the right panel, look for the **Theme Settings** tab. This tab contains the auto-fit controls and theme detection options.
 
-![Theme Settings tab](../public/images/theme-auto-fit/step-2.png)
+![Theme Settings tab](/.gitbook/assets/theme-auto-fit/step-2.png)
 
 ### Step 3: Apply auto-fit colors
 
 The app automatically detects your Shopify theme's color scheme. Click **Apply theme colors** to apply the detected colors to your widget. The live preview updates immediately to show the result.
 
-![Apply auto-fit colors](../public/images/theme-auto-fit/step-3.png)
+![Apply auto-fit colors](/.gitbook/assets/theme-auto-fit/step-3.png)
 
 ### Step 4: Fine-tune individual colors
 
 After applying auto-fit, switch to **Advanced** color mode to fine-tune any specific colors. Click on individual color swatches to adjust them while keeping the overall theme-matched palette.
 
-![Fine-tune colors](../public/images/theme-auto-fit/step-4.png)
+![Fine-tune colors](/.gitbook/assets/theme-auto-fit/step-4.png)
 
 ### Step 5: Preview the result
 
 Check the live preview in the center panel to verify the widget matches your store's look and feel. Toggle between **Desktop** and **Mobile** views to ensure consistency.
 
-![Preview the result](../public/images/theme-auto-fit/step-5.png)
+![Preview the result](/.gitbook/assets/theme-auto-fit/step-5.png)
 
 ### Step 6: Save your changes
 
 Click **Save** to apply the theme-matched design. Your offer widgets will now use colors that harmonize with your Shopify theme.
 
-![Save changes](../public/images/theme-auto-fit/step-6.png)
+![Save changes](/.gitbook/assets/theme-auto-fit/step-6.png)
 
 
 > **Warning:** If you change your Shopify theme, you may need to re-apply auto-fit to update the widget colors. The auto-fit feature reads your currently published theme.

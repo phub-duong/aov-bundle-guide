@@ -26,7 +26,7 @@ Navigate to the offer creation page and select Product Fixed Bundle.
 3. Select **Product Fixed Bundle** from the offer type list.
 4. Click **Create** to proceed.
 
-![Select Product Fixed Bundle offer type](../public/images/create-product-fixed-bundle/step-1.png)
+![Select Product Fixed Bundle offer type](/.gitbook/assets/create-product-fixed-bundle/step-1.png)
 
 ### Step 2: Add component products
 
@@ -42,7 +42,7 @@ Select the products that will be included in the fixed bundle.
    - **Variants** — Select which variants to include.
 4. (Optional) Toggle **Show products included in bundle** to display all child products as a short list on the storefront.
 
-![Add component products](../public/images/create-product-fixed-bundle/step-2.png)
+![Add component products](/.gitbook/assets/create-product-fixed-bundle/step-2.png)
 
 ### Step 3: Configure offer details and pricing
 
@@ -58,7 +58,7 @@ Set the discount method and manage variant pricing.
    - **Displayed price** — The final bundle price shown to customers (adjustable).
 5. (Optional) Use **Apply a price to all selected variants** to bulk-update displayed prices.
 
-![Configure pricing](../public/images/create-product-fixed-bundle/step-3.png)
+![Configure pricing](/.gitbook/assets/create-product-fixed-bundle/step-3.png)
 
 ### Step 4: Set offer information and status
 
@@ -71,7 +71,7 @@ Configure the bundle title and activation status.
    - **Draft** — The bundle is saved but not published.
 3. (Optional) Configure **Schedule** — Set **Start date** and optionally toggle **Set end date**.
 
-![Set offer information](../public/images/create-product-fixed-bundle/step-4.png)
+![Set offer information](/.gitbook/assets/create-product-fixed-bundle/step-4.png)
 
 ### Step 5: Configure advanced settings
 
@@ -84,7 +84,7 @@ Fine-tune additional bundle options.
 2. (Optional) Configure the widget to display on component product pages:
    - Click **Add widget** to integrate the widget into your theme.
 
-![Configure advanced settings](../public/images/create-product-fixed-bundle/step-5.png)
+![Configure advanced settings](/.gitbook/assets/create-product-fixed-bundle/step-5.png)
 
 ### Step 6: Preview and save
 
@@ -96,7 +96,7 @@ Review the bundle before publishing.
 
 > **Info:** If the bundle contains many variants, creating the offer may take longer than usual. Please wait until the process completes.
 
-![Preview and save](../public/images/create-product-fixed-bundle/step-6.png)
+![Preview and save](/.gitbook/assets/create-product-fixed-bundle/step-6.png)
 
 
 Use **Product Fixed Bundle** to sell curated product sets as a single bundled item with automatic discounts. Start creating your first fixed bundle today!
