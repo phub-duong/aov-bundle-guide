@@ -1,0 +1,69 @@
+---
+title: "Overview of Offer Types"
+description: "Learn about the different offer types available in AOV Bundle: Volume Discount, FBT, Bundle Builder, Product Fixed Bundle, and Mix-and-Match."
+---
+
+# Overview of Offer Types
+
+AOV Bundle provides five powerful offer types to help you increase your store's average order value. Each type is designed for a specific upselling strategy.
+
+> **Info:** **Prerequisites:** AOV Bundle must be installed on your Shopify store.
+
+## Overview
+
+To create an offer, navigate to **Offers** in the sidebar and click **Create new offer**. You will see a selection page with all available offer types displayed as cards with descriptions and preview options.
+
+![Offer type selection page](../public/images/offers-overview/step-1.png)
+
+## Offer Types
+
+### Volume Discount
+
+Offer tiered pricing based on the quantity a customer purchases. For example: "Buy 2, get 10% off. Buy 3, get 20% off." Supports percentage, fixed amount, and fixed price discount types. You can add up to 5+ discount tiers, include gift products, and upload custom images per tier.
+
+**Best for:** Encouraging customers to buy more of the same product.
+
+### Frequently Bought Together (FBT)
+
+Suggest complementary products that are often purchased together. Use AI-powered recommendations or manually select specific products and collections. Customers see a bundled price with a discount when they add all items together.
+
+**Best for:** Cross-selling related products on product pages.
+
+### Bundle Builder
+
+Let customers build their own bundle from a curated selection of products. Choose between **List** layout (browse all products) or **Category** layout (organized by categories with rules like "pick at least 2 from each category"). Supports up to 5 categories.
+
+**Best for:** "Build your own box" or curated bundle experiences.
+
+### Product Fixed Bundle
+
+Create a fixed set of products sold together at a discounted price. Supports up to 30 products and 2048 variants per bundle. The bundle appears as a single product listing with configurable variant options.
+
+**Best for:** Pre-made bundles like gift sets or starter kits.
+
+### Mix-and-Match Bundle
+
+Allow customers to pick N items from M available options. Each option has a name and product selection. Customers choose their preferred combination and receive a bundle discount.
+
+**Best for:** "Pick any 3 for $X" or mix-and-match promotions.
+
+## Comparison Table
+
+| Feature | Volume Discount | FBT | Bundle Builder | Fixed Bundle | Mix-and-Match |
+|---------|:-:|:-:|:-:|:-:|:-:|
+| Tiered pricing | Yes | — | Yes | — | — |
+| AI recommendations | — | Yes | — | — | — |
+| Customer chooses products | — | — | Yes | — | Yes |
+| Variant options | — | — | — | Yes | — |
+| Category rules | — | — | Yes | — | — |
+| Gift products | Yes | — | — | — | — |
+
+## What's Next
+
+- [Create a Volume Discount](/docs/offers/create-volume-discount)
+- [Create an FBT Offer](/docs/offers/create-fbt)
+- [Create a Bundle Builder](/docs/offers/create-bundle-builder)
+
+---
+
+*Was this article helpful? [Let us know](https://github.com/anthropics/claude-code/issues).*

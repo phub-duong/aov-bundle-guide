@@ -1,0 +1,5 @@
+root: ./
+
+structure:
+  readme: helpdesk/index.md
+  summary: SUMMARY.md

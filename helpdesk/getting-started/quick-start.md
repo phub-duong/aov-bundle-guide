@@ -1,0 +1,68 @@
+---
+title: "Quick Start Guide"
+description: "Get started with AOV Bundle in minutes — create your first offer, customize the widget, and go live."
+---
+
+# Quick Start Guide
+
+Get your first bundle offer live in just a few steps. This guide walks you through creating an offer, customizing its appearance, and activating it on your storefront.
+
+> **Info:** **Prerequisites:** AOV Bundle must be installed. You should have at least one product in your Shopify store.
+
+## Overview
+
+The fastest way to start using AOV Bundle is to create a Volume Discount or Frequently Bought Together offer, preview it, and set it live.
+
+## Steps
+
+### Step 1: Navigate to Offers
+
+From the dashboard, click **Offers** in the left sidebar. You will see the offer list page with a **Create new offer** button.
+
+![Navigate to Offers](../public/images/quick-start/step-1.png)
+
+### Step 2: Click Create new offer
+
+Click the **Create new offer** button at the top right of the offer list page. This opens the offer type selection page.
+
+![Create new offer button](../public/images/quick-start/step-2.png)
+
+### Step 3: Select an offer type
+
+Choose the type of offer you want to create. For a quick start, we recommend **Volume Discount** or **Frequently Bought Together**. Click the **Create** button on your chosen offer type card.
+
+![Select offer type](../public/images/quick-start/step-3.png)
+
+### Step 4: Configure your offer
+
+Fill in the basic offer details:
+- Enter an **Offer name** to identify this campaign
+- Set the **Trigger condition** to choose which products trigger this offer
+- Configure the **Discount type** and value for each tier
+
+![Configure offer settings](../public/images/quick-start/step-4.png)
+
+### Step 5: Customize the display
+
+Click **Next: Display setting** to customize how the offer widget appears on your storefront. Adjust colors, layout, and text to match your store's theme.
+
+![Customize display settings](../public/images/quick-start/step-5.png)
+
+### Step 6: Save and activate
+
+Click **Save** to save your offer. The offer will be created in **Draft** status. Return to the offer list and click the **Play** icon to toggle the offer to **Active**.
+
+![Save and activate the offer](../public/images/quick-start/step-6.png)
+
+
+> **Warning:** Always preview your offer on the storefront before activating. Click **Preview on online store** in the offer editor to see how customers will experience it.
+
+## What's Next
+
+- [Create a Volume Discount](/docs/offers/create-volume-discount)
+- [Create an FBT Offer](/docs/offers/create-fbt)
+- [Customize Widget Appearance](/docs/design/customize-widget)
+
+---
+
+*Was this article helpful? [Let us know](https://github.com/anthropics/claude-code/issues).*
