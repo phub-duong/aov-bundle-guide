@@ -7,15 +7,17 @@ import { Steps, Callout, Cards } from 'nextra/components'
 
 # Create a Volume Discount
 
-Create a volume discount offer that rewards customers with bigger savings when they buy more. Set up tiered pricing with percentage, fixed amount, or fixed price discounts.
+Volume Discount lets you offer tiered discounts based on the quantity of items a customer purchases. The more they buy, the bigger the discount they receive. A discount table is displayed on the product page to show customers exactly how much they save at each tier.
 
 <Callout type="info">
-  **Prerequisites:** AOV Bundle installed. At least one product in your store.
+  **Prerequisites:** AOV Bundle installed and active. Products must already be added to your Shopify store. Optionally, enable the app embed block in your theme settings for the widget to display on your storefront.
 </Callout>
 
-## Overview
+## Why Volume Discount?
 
-A Volume Discount offer displays a pricing table on your product pages showing customers how much they save at each quantity tier. For example: "Buy 2, save 10%. Buy 3, save 20%."
+- **Encourage bulk purchases** — Tiered pricing motivates customers to buy more items to unlock better discounts, directly increasing your order value.
+- **Clear savings visibility** — A discount table on the product page shows all tiers at a glance, making it easy for customers to see the benefit of buying more.
+- **Flexible discount types** — Support percentage, fixed amount, fixed price, and even "Buy X Get X free" deals to match any promotion strategy.
 
 ## Steps
 
@@ -23,70 +25,97 @@ A Volume Discount offer displays a pricing table on your product pages showing c
 
 ### Step 1: Create a new Volume Discount offer
 
-Navigate to **Offers** in the sidebar, click **Create new offer**, then click **Create** on the **Volume Discount** card.
+Navigate to the offer creation page and select the Volume Discount type.
 
-![Create Volume Discount](/images/create-volume-discount/step-1.png)
+1. Go to **AOV.ai Bundle Discounts > Offers**.
+2. Click **Create offer**.
+3. Select **Volume Discount** from the offer type list.
+4. Click **Create** to proceed.
 
-### Step 2: Enter the offer name
+![Select Volume Discount offer type](/images/create-volume-discount/step-1.png)
 
-In the **Offer Info** section, enter a name for your offer in the **Offer name** field. This name is for your internal reference — customers won't see it.
+### Step 2: Configure trigger conditions
 
-![Enter offer name](/images/create-volume-discount/step-2.png)
+Define which products will show the volume discount table.
 
-### Step 3: Set trigger conditions
+1. In the **Trigger conditions** section, choose **Any items from**:
+   - **Specific products** — Select individual products.
+   - **Specific collections** — Select entire collections.
+2. Click **Browse** to search and select your trigger products or collections.
+3. (Optional) Configure **Markets** to limit the offer to specific Shopify markets. Default is **All Markets**.
 
-In the **Trigger Conditions** section, choose which products will trigger this offer. Select specific products or entire collections. You can also exclude certain products or collections.
+![Configure trigger conditions](/images/create-volume-discount/step-2.png)
 
-![Set trigger conditions](/images/create-volume-discount/step-3.png)
+### Step 3: Set up discount tiers
 
-### Step 4: Choose the discount type
+Create the tiered pricing structure for your volume discount.
 
-In the **Discount Tier** section, select the **Discount type** from the dropdown:
-- **% Discount** — Percentage off the price
-- **$ Discount** — Fixed amount off the price
-- **Fixed Price** — Set a specific price (available when triggered by specific product)
+1. In the **Discount settings** section, select a **Discount type**:
+   - **Volume discount** — Set discount tiers based on quantity.
+   - **Buy X Get X** — Buy a certain quantity and get extra items free.
+2. For each tier, configure:
+   - **Product quantity** — The minimum number of items the customer must buy.
+   - **Discount type** — Choose **Percentage**, **Fixed amount**, **Fixed price**, or **Free**.
+   - **Value** — The discount value for that tier.
+3. Click **+ Add tier** to add more discount levels.
+4. (Optional) Toggle **Set as default** to pre-select a tier for customers.
+5. (Optional) Toggle **Enable badge** to show a badge label on a tier (e.g., "Most popular").
 
-![Choose discount type](/images/create-volume-discount/step-4.png)
+![Set up discount tiers](/images/create-volume-discount/step-3.png)
 
-### Step 5: Configure discount tiers
+### Step 4: Configure offer widget and content
 
-Click on the tier buttons (Tier 1, Tier 2, etc.) to configure each tier. For each tier, set:
-- **Product quantity** — Minimum items to qualify
-- **Discount value** — The discount amount
-- **Title** — Display text (e.g., "Buy 2 & Save 10%")
-- **Subtitle** — Additional description
+Customize the text and display options for the volume discount widget.
 
-Click **Add Tier** to add more tiers. You can also click **AI Suggestion** to auto-generate tier values.
+1. In the **Offer widget** section, configure:
+   - **Title**: The headline displayed above the discount table.
+   - **Tier title** and **Subtitle** for each tier.
+   - **Badge** label for each tier (e.g., "Best value").
+   - **Saving**: The saving text displayed to customers.
+2. **Select layout widget** — Choose between horizontal or vertical display.
+3. **Redirect after Add to cart** — Choose where the customer goes after clicking the button:
+   - **Stay on current page**
+   - **Cart page**
+   - **Checkout page**
+4. (Optional) Toggle **Display custom image** to show a custom image instead of the product thumbnail.
+5. (Optional) Enable **Countdown timer** to add urgency. Configure the timer format and position.
 
-![Configure discount tiers](/images/create-volume-discount/step-5.png)
+![Configure offer widget](/images/create-volume-discount/step-4.png)
 
-### Step 6: Add a gift product (optional)
+### Step 5: Configure advanced settings
 
-Enable the **Add Gift** toggle to include a free or discounted gift when customers reach a tier. Select the gift product, set the gift discount type, and configure the gift quantity.
+Fine-tune your offer with scheduling, eligibility, and pricing options.
 
-![Add gift product](/images/create-volume-discount/step-6.png)
+1. In the **Advanced Configuration** section, configure:
+   - **Schedule** — Set **Start date** and optionally toggle **Set end date**.
+   - **Customer eligibility** — Choose **All customers**, **Specific customer segment**, or **Exclude specific customer segments**.
+   - **Maximum discount uses** — Limit total uses or one use per customer.
+   - **Pricing option** — Toggle **Show prices per item**, **Apply discount for exact quantity only**, or **Use the product's compare-at price**.
+2. Enter an **Offer name** in the **Offer information** section. This name is internal only.
 
-### Step 7: Configure display settings
+![Configure advanced settings](/images/create-volume-discount/step-5.png)
 
-Click **Next: Display setting** to customize the offer widget appearance. Choose colors, layout (vertical or horizontal), and text styling to match your store's theme.
+### Step 6: Preview and save
 
-![Display settings](/images/create-volume-discount/step-7.png)
+Review the offer before publishing.
 
-### Step 8: Save the offer
+1. Look at the **Preview** panel on the right to see how the volume discount table will appear on the product page.
+2. Click **Save** to activate the offer.
 
-Click **Save** to create your offer. The offer will be saved in **Draft** status. To make it live, go back to the offer list and toggle the status to **Active**.
-
-![Save the offer](/images/create-volume-discount/step-8.png)
+![Preview and save](/images/create-volume-discount/step-6.png)
 
 </Steps>
 
-<Callout type="warning">
-  You can set a **Schedule** for your offer to automatically activate and deactivate at specific dates. Expand the **Schedule** section before saving to configure this.
-</Callout>
+Use **Volume Discount** to reward bulk buyers with tiered savings and watch your average order value grow. Start creating your first volume discount offer today!
 
 ## What's Next
 
 <Cards>
+  <Cards.Card
+    title="Volume Discount Display Settings"
+    href="/docs/design/volume-display"
+    arrow
+  />
   <Cards.Card
     title="Manage Your Offers"
     href="/docs/offers/manage-offers"
@@ -95,11 +124,6 @@ Click **Save** to create your offer. The offer will be saved in **Draft** status
   <Cards.Card
     title="Set Offer Trigger Conditions"
     href="/docs/offers/offer-triggers"
-    arrow
-  />
-  <Cards.Card
-    title="Customize Widget Appearance"
-    href="/docs/design/customize-widget"
     arrow
   />
 </Cards>

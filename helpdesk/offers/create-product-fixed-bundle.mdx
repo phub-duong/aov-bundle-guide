@@ -7,15 +7,17 @@ import { Steps, Callout, Cards } from 'nextra/components'
 
 # Create a Product Fixed Bundle
 
-Create a pre-made bundle of fixed products sold together at a discounted price. Supports up to 30 products and 2,048 variants per bundle with configurable pricing per variant.
+Product Fixed Bundle lets you create a fixed set of products and sell them as a single bundled product in your Shopify store. The bundle appears as its own product listing with a discounted price, and customers can purchase the entire set in one click.
 
 <Callout type="info">
-  **Prerequisites:** AOV Bundle installed. Products you want to bundle should already exist in your store.
+  **Prerequisites:** AOV Bundle installed and active. Products must already be added to your Shopify store. Note: Bundles are limited in the number of products, options, and variants as per Shopify product limits.
 </Callout>
 
-## Overview
+## Why Product Fixed Bundle?
 
-A Product Fixed Bundle appears as a single product listing on your store with all included items shown. Customers see the original price crossed out alongside the bundled discount price. You control which variants are available and the displayed price for each.
+- **Sell curated sets** — Package complementary products together as a single offering, making it easy for customers to buy everything they need at once.
+- **Simplified inventory** — The bundle is managed as a Shopify product with its own variants, pricing, and inventory tracking.
+- **Multipack selling** — Allow customers to buy multiple packs of the same bundle with increasing discounts (e.g., 2 packs at 5% off, 3 packs at 10% off).
 
 ## Steps
 
@@ -23,55 +25,99 @@ A Product Fixed Bundle appears as a single product listing on your store with al
 
 ### Step 1: Create a new Product Fixed Bundle offer
 
-Navigate to **Offers** → **Create new offer**, then click **Create** on the **Product Fixed Bundle** card.
+Navigate to the offer creation page and select Product Fixed Bundle.
 
-![Create Product Fixed Bundle](/images/create-product-fixed-bundle/step-1.png)
+1. Go to **AOV.ai Bundle Discounts > Offers**.
+2. Click **Create offer**.
+3. Select **Product Fixed Bundle** from the offer type list.
+4. Click **Create** to proceed.
 
-### Step 2: Enter the offer title
+![Select Product Fixed Bundle offer type](/images/create-product-fixed-bundle/step-1.png)
 
-In the **Offer Information** section, enter a title for your bundle. This title will be visible to customers on your store.
+### Step 2: Add component products
 
-![Enter offer title](/images/create-product-fixed-bundle/step-2.png)
+Select the products that will be included in the fixed bundle.
 
-### Step 3: Select bundle products
+1. In the **Components** section, click **Browse** to add products to the bundle.
+2. The summary shows your current usage:
+   - **Bundled products**: How many products are in the bundle (out of the limit).
+   - **Options**: The number of product options used.
+   - **Variants**: The number of variant combinations.
+3. For each product, configure:
+   - **Group by** — Choose how variants are grouped.
+   - **Variants** — Select which variants to include.
+4. (Optional) Toggle **Show products included in bundle** to display all child products as a short list on the storefront.
 
-In the **Product Display** section, use the product browser to select the products that make up this bundle. You can add up to 30 products. The sidebar summary shows your current count (e.g., "5/30 bundled products").
+![Add component products](/images/create-product-fixed-bundle/step-2.png)
 
-![Select bundle products](/images/create-product-fixed-bundle/step-3.png)
+### Step 3: Configure offer details and pricing
 
-### Step 4: Set applicable products
+Set the discount method and manage variant pricing.
 
-In the **Applicable Products** section, choose which product pages will display this bundle offer. This determines where on your store the bundle will be shown.
+1. In the **Offer details** section, select a **Discount method**:
+   - **Percentage** — Discount a percentage off the total (e.g., 15% off).
+   - **Fixed amount** — Discount a specific dollar amount.
+2. Enter the **Value** for your discount.
+3. Click **Apply** to update the pricing for all variants.
+4. Review the variant pricing table:
+   - **Original Price** — The sum of individual variant prices.
+   - **Displayed price** — The final bundle price shown to customers (adjustable).
+5. (Optional) Use **Apply a price to all selected variants** to bulk-update displayed prices.
 
-![Set applicable products](/images/create-product-fixed-bundle/step-4.png)
+![Configure pricing](/images/create-product-fixed-bundle/step-3.png)
 
-### Step 5: Configure pricing
+### Step 4: Set offer information and status
 
-In the **Offer Details** section, select a **Discount method** and configure the pricing. A table displays each variant with its **Original Price** and **Displayed price** so you can see the exact savings customers will receive.
+Configure the bundle title and activation status.
 
-![Configure pricing](/images/create-product-fixed-bundle/step-5.png)
+1. In the **Offer information** section:
+   - **Offer title** — Enter the bundle name. This title is displayed as the product name on the storefront and is visible to customers.
+2. Set the **Status**:
+   - **Active** — The bundle is live and visible to customers.
+   - **Draft** — The bundle is saved but not published.
+3. (Optional) Configure **Schedule** — Set **Start date** and optionally toggle **Set end date**.
 
-### Step 6: Set the bundle status
+![Set offer information](/images/create-product-fixed-bundle/step-4.png)
 
-In the sidebar, use the **Bundle Status** section to set the offer to **Active** or **Draft**. Active bundles are immediately visible on your store.
+### Step 5: Configure advanced settings
 
-![Set bundle status](/images/create-product-fixed-bundle/step-6.png)
+Fine-tune additional bundle options.
 
-### Step 7: Save the bundle
+1. In the **Advanced settings** section:
+   - **Multipack selling** — Toggle to allow customers to buy multiple fixed bundles with increasing discounts (e.g., 2 packs at 5% off, 3 packs at 10% off).
+   - **Discount combinations** — Allow combining with product, order, or shipping discounts.
+   - **Customer eligibility** — Choose **All customers** or **Specific customer segment**.
+2. (Optional) Configure the widget to display on component product pages:
+   - Click **Add widget** to integrate the widget into your theme.
 
-Click **Save** to create the Product Fixed Bundle. Once saved, you can preview it by clicking **Preview on online store** or **View in Shopify**.
+![Configure advanced settings](/images/create-product-fixed-bundle/step-5.png)
 
-![Save the bundle](/images/create-product-fixed-bundle/step-7.png)
+### Step 6: Preview and save
+
+Review the bundle before publishing.
+
+1. Click **Preview** to see how the bundle product will appear on your storefront.
+2. Click **Save** to create the fixed bundle.
+3. The bundle will appear as a new product in your Shopify store. Click **View in Shopify** to see it.
+
+<Callout type="info">
+  If the bundle contains many variants, creating the offer may take longer than usual. Please wait until the process completes.
+</Callout>
+
+![Preview and save](/images/create-product-fixed-bundle/step-6.png)
 
 </Steps>
 
-<Callout type="warning">
-  Product Fixed Bundles support a maximum of 30 products and 2,048 variants. The sidebar summary displays your current usage against these limits.
-</Callout>
+Use **Product Fixed Bundle** to sell curated product sets as a single bundled item with automatic discounts. Start creating your first fixed bundle today!
 
 ## What's Next
 
 <Cards>
+  <Cards.Card
+    title="Product Fixed Bundle Display Settings"
+    href="/docs/design/product-fixed-display"
+    arrow
+  />
   <Cards.Card
     title="Create a Mix-and-Match Bundle"
     href="/docs/offers/create-mix-match"
@@ -80,11 +126,6 @@ Click **Save** to create the Product Fixed Bundle. Once saved, you can preview i
   <Cards.Card
     title="Manage Your Offers"
     href="/docs/offers/manage-offers"
-    arrow
-  />
-  <Cards.Card
-    title="Customize Widget Appearance"
-    href="/docs/design/customize-widget"
     arrow
   />
 </Cards>

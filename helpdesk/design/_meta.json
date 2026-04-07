@@ -1,5 +1,10 @@
 {
   "design-overview": "Widget Design Overview",
   "customize-widget": "Customize Widget Appearance",
-  "theme-auto-fit": "Auto-Fit to Your Store Theme"
+  "theme-auto-fit": "Auto-Fit to Your Store Theme",
+  "fbt-display": "FBT Display Settings",
+  "volume-display": "Volume Discount Display Settings",
+  "bundle-builder-display": "Bundle Builder Display Settings",
+  "mix-match-display": "Mix-and-Match Display Settings",
+  "product-fixed-display": "Product Fixed Bundle Display Settings"
 }

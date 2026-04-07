@@ -7,79 +7,113 @@ import { Steps, Callout, Cards } from 'nextra/components'
 
 # Create a Mix-and-Match Bundle
 
-Create a mix-and-match bundle that lets customers pick their preferred combination of products from multiple options. Each option group has its own name and product selection.
+Mix-and-Match Bundle allows customers to create their own bundle by selecting products from predefined options. Each option represents a choice the customer makes, and a discount is applied once they complete their selections. The widget is displayed on a dedicated bundle page.
 
 <Callout type="info">
-  **Prerequisites:** AOV Bundle installed. Products you want to include should already exist in your store.
+  **Prerequisites:** AOV Bundle installed and active. Products must already be added to your Shopify store. You need to integrate the widget into your theme to display the bundle page.
 </Callout>
 
-## Overview
+## Why Mix-and-Match Bundle?
 
-A Mix-and-Match Bundle displays multiple option groups on the product page. Customers choose one item from each group to build their personalized bundle at a discounted price. For example: "Pick a top, a bottom, and an accessory — save 15%."
+- **Customer freedom of choice** — Let customers pick exactly what they want from your curated product options, leading to higher satisfaction and fewer returns.
+- **Simplified bundle creation** — Define options once, and the app handles all the product combination logic and discount calculations automatically.
+- **Flexible discount structures** — Support percentage, fixed amount, and fixed price discounts to match any promotional strategy.
 
 ## Steps
 
 <Steps>
 
-### Step 1: Create a new Mix-and-Match offer
+### Step 1: Create a new Mix-and-Match Bundle offer
 
-Navigate to **Offers** → **Create new offer**, then click **Create** on the **Mix-and-Match Bundle** card.
+Navigate to the offer creation page and select Mix-and-Match Bundle.
 
-![Create Mix-and-Match Bundle](/images/create-mix-match/step-1.png)
+1. Go to **AOV.ai Bundle Discounts > Offers**.
+2. Click **Create offer**.
+3. Select **Mix-and-match bundle** from the offer type list.
+4. Click **Create** to proceed.
 
-### Step 2: Enter the offer title
+![Select Mix-and-Match Bundle offer type](/images/create-mix-match/step-1.png)
 
-In the **Offer Information** section, enter a descriptive title for your bundle. This title will be visible to customers.
+### Step 2: Configure bundle options
 
-![Enter offer title](/images/create-mix-match/step-2.png)
+Define the product options that customers can choose from.
 
-### Step 3: Configure bundle options
+1. In the **Bundle option** section, you will see **Bundle option 1** by default.
+2. For each bundle option, configure:
+   - **Option name** — Enter a descriptive name (e.g., "Choose your top", "Pick a color").
+   - **Products** — Click **Browse** to select the products available for this option.
+   - Set the quantity for each option.
+3. Click **Add bundle option** to create additional options.
+4. Use **Duplicate** to copy an existing option, or **Delete** to remove one.
 
-In the **Bundle Options** section, set up each option group:
-- Enter an **Option Name** (e.g., "Choose a Top", "Choose a Bottom")
-- Use the product browser to add products to the option
-- Click **Add bundle option** to create additional option groups
-- Use the **Duplicate** or **Delete** buttons to manage options
+<Callout type="info">
+  Each option represents one selection the customer makes. For example, a "Build Your Outfit" bundle might have options for Top, Bottom, and Accessory.
+</Callout>
 
-![Configure bundle options](/images/create-mix-match/step-3.png)
+![Configure bundle options](/images/create-mix-match/step-2.png)
 
-### Step 4: Set discount settings
+### Step 3: Set up discount settings
 
-In the **Discount Settings** section, choose the discount type:
-- **Fixed amount** — Discount a specific dollar amount from the bundle total
-- **Fixed price** — Set a fixed price for the entire bundle
+Configure the discount customers receive when they complete the bundle.
 
-Enter the discount value in the field below.
+1. In the **Discount settings** section, select a **Discount type**:
+   - **Percentage** — Discount a percentage off the total (e.g., 15% off).
+   - **Fixed amount** — Discount a specific dollar amount (e.g., $10 off).
+   - **Fixed price** — Set a fixed price for the entire bundle regardless of individual product prices (e.g., Buy bundle for $100).
+2. Enter the **Value** for your discount.
 
-![Set discount](/images/create-mix-match/step-4.png)
+![Set up discount settings](/images/create-mix-match/step-3.png)
 
-### Step 5: Customize widget content
+### Step 4: Customize widget display and content
 
-In the **Widget Content** section, customize the text and appearance of the bundle widget that customers see on your store.
+Configure the text and appearance of the bundle widget.
 
-![Customize widget content](/images/create-mix-match/step-5.png)
+1. In the **Widget display** section, click **Add widget** to integrate the widget into your theme, or click **Customize widget** to adjust styles and colors.
+2. Configure content labels:
+   - **Title**: The main headline on the bundle page.
+   - **Description**: A subtitle explaining the bundle.
+   - **'Total products:' label**: Shows the total product count.
+   - **'Save' badge label**: Shows the discount amount. Keep `{{discount_value}}` intact.
+3. (Optional) Configure **Promotion** settings to promote the bundle on product pages:
+   - **Promotion Title**, **Promotion Badge Label**, **Promotion Button Label**.
+   - **See more text**, **Badge Text**, **'From' Text**.
 
-### Step 6: Set the bundle status
+![Customize widget display](/images/create-mix-match/step-4.png)
 
-In the sidebar, use the **Bundle Status** toggle to set the offer to **Active** or **Draft**. The sidebar also shows a live preview of the bundle widget.
+### Step 5: Configure advanced settings
 
-![Set bundle status](/images/create-mix-match/step-6.png)
+Fine-tune scheduling, eligibility, and offer details.
 
-### Step 7: Save the bundle
+1. In the **Offer information** section, enter an **Offer title**. This title is visible to customers on the bundle page.
+2. Set the **Status** to **Active** or **Draft**.
+3. Configure **Schedule** — Set **Start date** and optionally toggle **Set end date** to run the offer for a limited time.
+4. (Optional) Configure **Customer eligibility** — Choose **All customers** or **Specific customer segment** to target the offer.
+5. (Optional) Configure **Discount combinations** — Allow combining with product, order, or shipping discounts.
+6. (Optional) Set **Maximum discount uses** — Limit total uses or one use per customer.
 
-Click **Save** to create the Mix-and-Match Bundle. Use **Preview on online store** or **View in Shopify** to verify how it appears to customers.
+![Configure advanced settings](/images/create-mix-match/step-5.png)
 
-![Save the bundle](/images/create-mix-match/step-7.png)
+### Step 6: Preview and save
+
+Review the bundle page before publishing.
+
+1. Look at the **Preview** panel to see how the mix-and-match bundle page will appear.
+2. Click **Save** to create the bundle offer.
+
+![Preview and save](/images/create-mix-match/step-6.png)
 
 </Steps>
 
-<Callout type="warning">
-  You can configure a **Redirect after Add to Cart** behavior in the display settings. Choose whether customers stay on the page or go directly to the cart after adding the bundle.
-</Callout>
+Use **Mix-and-Match Bundle** to let customers build their dream bundle from your curated options. Start creating your first mix-and-match offer today!
 
 ## What's Next
 
 <Cards>
+  <Cards.Card
+    title="Mix-and-Match Display Settings"
+    href="/docs/design/mix-match-display"
+    arrow
+  />
   <Cards.Card
     title="Create a Product Fixed Bundle"
     href="/docs/offers/create-product-fixed-bundle"
@@ -88,11 +122,6 @@ Click **Save** to create the Mix-and-Match Bundle. Use **Preview on online store
   <Cards.Card
     title="Manage Your Offers"
     href="/docs/offers/manage-offers"
-    arrow
-  />
-  <Cards.Card
-    title="Track Offer Performance"
-    href="/docs/analytics/offer-performance"
     arrow
   />
 </Cards>

@@ -1,21 +1,23 @@
 ---
 title: "Create a Bundle Builder"
-description: "Step-by-step guide to creating a Build Your Own Bundle offer with list or category layout in AOV Bundle."
+description: "Step-by-step guide to creating a Build Your Own Bundle offer with category-based product selection in AOV Bundle."
 ---
 
 import { Steps, Callout, Cards } from 'nextra/components'
 
 # Create a Bundle Builder
 
-Create a Bundle Builder offer that lets customers build their own custom bundle from a curated product selection. Choose between a list layout or category-based layout with quantity rules.
+Bundle Builder lets you create a dedicated bundle page where customers can pick products from different categories and build their own custom bundle. Discounts are applied based on how many items they add, encouraging larger purchases.
 
 <Callout type="info">
-  **Prerequisites:** AOV Bundle installed. Products organized in collections (recommended for category layout).
+  **Prerequisites:** AOV Bundle installed and active. Products must already be added to your Shopify store. You need to configure your theme to display the bundle page on your storefront.
 </Callout>
 
-## Overview
+## Why Bundle Builder?
 
-A Bundle Builder displays a dedicated page or widget where customers pick products to build their own bundle at a discounted price. The category layout lets you organize products into groups with rules like "pick at least 2 from each category."
+- **Dedicated bundle page** — Give customers a focused shopping experience with a standalone page showcasing your bundle offer and all available products.
+- **Category-based selection** — Organize products into categories so customers can easily browse and pick items across different groups.
+- **Tiered discount incentives** — Apply increasing discounts based on the number of products in the bundle, motivating customers to add more items.
 
 ## Steps
 
@@ -23,64 +25,93 @@ A Bundle Builder displays a dedicated page or widget where customers pick produc
 
 ### Step 1: Create a new Bundle Builder offer
 
-Navigate to **Offers** → **Create new offer**, then click **Create** on the **Bundle Builder** card.
+Navigate to the offer creation page and select Bundle Builder.
 
-![Create Bundle Builder](/images/create-bundle-builder/step-1.png)
+1. Go to **AOV.ai Bundle Discounts > Offers**.
+2. Click **Create offer**.
+3. Select **Bundle Builder** from the offer type list.
+4. Click **Create** to proceed.
 
-### Step 2: Enter the offer name
+![Select Bundle Builder offer type](/images/create-bundle-builder/step-1.png)
 
-In the **Bundle Information** section, enter a descriptive name for your bundle in the **Offer name** field.
+### Step 2: Add product categories
 
-![Enter offer name](/images/create-bundle-builder/step-2.png)
+Organize your bundle products into categories for easy customer browsing.
 
-### Step 3: Choose the layout type
+1. In the **Bundle products** section, click **Add category** to create product groups.
+2. For each category, configure:
+   - **Category name** — Enter a descriptive name (e.g., "Tops", "Accessories").
+   - **Description** — Add a short description for the category.
+   - **Products** — Click **Browse** to select products for this category.
+3. Set the **Quantity rule** for each category to define how many items customers must select.
+4. Add as many categories as needed by clicking **Add category** again.
 
-In the **Trigger Conditions** section, select the **Layout Type**:
-- **List layout** — All products displayed in a single browsable list
-- **Category layout** — Products organized into named categories with quantity rules
+![Add product categories](/images/create-bundle-builder/step-2.png)
 
-![Choose layout type](/images/create-bundle-builder/step-3.png)
+### Step 3: Configure discount settings
 
-### Step 4: Configure categories (category layout)
+Set up tiered discounts that increase as customers add more products.
 
-If you chose **Category layout**, set up your bundle categories:
-- Enter a **Category name** for each group
-- Use the product browser to add products to each category
-- Set a **Category rule** (Equal, At least, Most) to control how many items customers must pick
-- Click **Add category** to create additional categories (up to 5)
+1. In the **Discount settings** section, toggle **Apply increasing discounts based on the number of products in the bundle** if you want tiered pricing.
+2. Select a **Discount type**:
+   - **Percentage** — Discount a percentage off the total.
+   - **Fixed amount** — Discount a specific dollar amount.
+3. For each tier, configure:
+   - **Buy at least** — The minimum number of items to qualify.
+   - **Value** — The discount value for that tier.
+4. Click **Add tier** to create additional discount levels.
 
-![Configure categories](/images/create-bundle-builder/step-4.png)
+![Configure discount settings](/images/create-bundle-builder/step-3.png)
 
-### Step 5: Set up discounts
+### Step 4: Customize offer content and promotion
 
-In the **Discount Settings** section, configure the discount type and value that applies when customers complete their bundle.
+Configure the text and promotional elements that customers see.
 
-![Set up discounts](/images/create-bundle-builder/step-5.png)
+1. In the **Offer content** section, customize:
+   - **Title**: The main headline on the bundle page.
+   - **Description**: A subtitle explaining the bundle.
+   - Use **Add variable** to insert dynamic values.
+2. (Optional) Upload a **Banner image** for the bundle page header (Recommended: 1400x350 px).
+3. (Optional) Configure the **Promotion** section to promote the bundle on product pages:
+   - **Show on included products page** — Display a widget on component product pages to promote your bundle offer.
+   - Customize **Promotion Title**, **Badge Label**, **Button Label**, **Tag Label**, and **See More Label**.
 
-### Step 6: Customize the display
+![Customize offer content](/images/create-bundle-builder/step-4.png)
 
-Click **Next: Display setting** to customize the bundle builder widget. Configure the **Offer Content** text, colors, and the **Redirect after Add to Cart** behavior.
+### Step 5: Configure advanced settings
 
-![Customize display](/images/create-bundle-builder/step-6.png)
+Fine-tune scheduling, eligibility, and other options.
 
-### Step 7: Save the offer
+1. In the **Advanced settings** section, configure:
+   - **Schedule** — Set **Start date** and optionally toggle **Set end date**.
+   - **Customer eligibility** — Choose **All customers** or **Specific customer segment**.
+   - **Maximum discount uses** — Limit total uses or one use per customer.
+   - **Discount combinations** — Allow combining with product, order, or shipping discounts.
+2. Enter an **Offer name** in the **Offer information** section. This name is internal only.
+3. Set the **Status** to **Active** or **Draft**.
 
-Click **Save** to create the Bundle Builder. Activate it from the offer list to make it live on your store.
+![Configure advanced settings](/images/create-bundle-builder/step-5.png)
 
-![Save the offer](/images/create-bundle-builder/step-7.png)
+### Step 6: Preview and save
+
+Review the bundle page before publishing.
+
+1. Look at the **Preview** panel to see how your bundle page will appear to customers.
+2. Click **Save** to create the bundle.
+3. If prompted, click **Configure theme** to add the bundle page to your store navigation.
+
+![Preview and save](/images/create-bundle-builder/step-6.png)
 
 </Steps>
 
-<Callout type="warning">
-  When using category layout, make sure each category has enough products for customers to meet the category rules. A preview widget on the sidebar helps you verify the bundle structure.
-</Callout>
+Use **Bundle Builder** to let customers create their own custom bundles while enjoying tiered discounts. Start building your first bundle page today!
 
 ## What's Next
 
 <Cards>
   <Cards.Card
-    title="Create a Product Fixed Bundle"
-    href="/docs/offers/create-product-fixed-bundle"
+    title="Bundle Builder Display Settings"
+    href="/docs/design/bundle-builder-display"
     arrow
   />
   <Cards.Card
