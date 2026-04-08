@@ -31,3 +31,7 @@
 
 * [Analytics Overview](helpdesk/analytics/analytics-overview.md)
 * [Offer Performance](helpdesk/analytics/offer-performance.md)
+
+## FAQ
+
+* [Frequently Asked Questions](helpdesk/faq.md)
