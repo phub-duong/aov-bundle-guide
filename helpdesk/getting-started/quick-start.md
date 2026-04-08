@@ -1,68 +1,58 @@
----
-title: "Quick Start Guide"
-description: "Get started with AOV Bundle in minutes — create your first offer, customize the widget, and go live."
----
-
 # Quick Start Guide
 
-Get your first bundle offer live in just a few steps. This guide walks you through creating an offer, customizing its appearance, and activating it on your storefront.
+Get your first bundle offer live in under 5 minutes! This guide walks you through the fastest path from zero to a working offer on your storefront.
 
-> **Info:** **Prerequisites:** AOV Bundle must be installed. You should have at least one product in your Shopify store.
-
-## Overview
-
-The fastest way to start using AOV Bundle is to create a Volume Discount or Frequently Bought Together offer, preview it, and set it live.
+> **Prerequisites:** AOV.ai Bundle installed and at least one product in your Shopify store.
 
 ## Steps
 
-### Step 1: Navigate to Offers
+### Step 1: Go to Offers
 
-From the dashboard, click **Offers** in the left sidebar. You will see the offer list page with a **Create new offer** button.
+From the dashboard, click **Offer** in the left sidebar to see the offer list page.
 
 ![Navigate to Offers](/.gitbook/assets/quick-start/step-1.png)
 
-### Step 2: Click Create new offer
+### Step 2: Create a new offer
 
-Click the **Create new offer** button at the top right of the offer list page. This opens the offer type selection page.
+Click **Create new offer**. You'll see the five bundle types to choose from.
 
-![Create new offer button](/.gitbook/assets/quick-start/step-2.png)
+![Create new offer](/.gitbook/assets/quick-start/step-2.png)
 
-### Step 3: Select an offer type
+### Step 3: Pick your bundle type
 
-Choose the type of offer you want to create. For a quick start, we recommend **Volume Discount** or **Frequently Bought Together**. Click the **Create** button on your chosen offer type card.
+Choose the offer type that fits your goal. For a quick win, we recommend **Volume Discount** (tiered quantity discounts) or **Frequently Bought Together** (cross-sell widget). Click **Create** on your chosen card.
 
 ![Select offer type](/.gitbook/assets/quick-start/step-3.png)
 
-### Step 4: Configure your offer
+### Step 4: Configure the basics
 
-Fill in the basic offer details:
-- Enter an **Offer name** to identify this campaign
-- Set the **Trigger condition** to choose which products trigger this offer
-- Configure the **Discount type** and value for each tier
+Fill in the essentials:
+* **Offer name** — An internal name to identify this campaign
+* **Trigger condition** — Which products or collections trigger this offer
+* **Discount** — The discount type and value for each tier
 
-![Configure offer settings](/.gitbook/assets/quick-start/step-4.png)
+![Configure offer](/.gitbook/assets/quick-start/step-4.png)
 
-### Step 5: Customize the display
+### Step 5: Customize the look
 
-Click **Next: Display setting** to customize how the offer widget appears on your storefront. Adjust colors, layout, and text to match your store's theme.
+Click **Next: Display setting** to style the widget. Pick colors, layout, and text that match your store's brand.
 
-![Customize display settings](/.gitbook/assets/quick-start/step-5.png)
+![Customize display](/.gitbook/assets/quick-start/step-5.png)
 
-### Step 6: Save and activate
+### Step 6: Save and go live
 
-Click **Save** to save your offer. The offer will be created in **Draft** status. Return to the offer list and click the **Play** icon to toggle the offer to **Active**.
+Click **Save** to create your offer. Toggle the status to **Active** to make it live on your storefront.
 
-![Save and activate the offer](/.gitbook/assets/quick-start/step-6.png)
+![Save and activate](/.gitbook/assets/quick-start/step-6.png)
 
+> **Tip:** Always preview your offer on the storefront before going live. Use the **Preview** panel on the right side of the editor to see exactly what your customers will see.
 
-> **Warning:** Always preview your offer on the storefront before activating. Click **Preview on online store** in the offer editor to see how customers will experience it.
+## What's next?
 
-## What's Next
+Ready to dive deeper? Pick a bundle type to learn all the details:
 
-- [Create a Volume Discount](/docs/offers/create-volume-discount)
-- [Create an FBT Offer](/docs/offers/create-fbt)
-- [Customize Widget Appearance](/docs/design/customize-widget)
-
----
-
-*Was this article helpful? [Let us know](https://github.com/anthropics/claude-code/issues).*
+* [Frequently Bought Together](../offers/create-fbt.md)
+* [Volume Discount](../offers/create-volume-discount.md)
+* [Bundle Builder](../offers/create-bundle-builder.md)
+* [Mix-and-Match Bundle](../offers/create-mix-match.md)
+* [Product Fixed Bundle](../offers/create-product-fixed-bundle.md)
