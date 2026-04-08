@@ -1,39 +1,39 @@
 # Table of contents
 
-## Getting Started
+## 🚀 Getting Started
 
 * [Welcome](helpdesk/index.md)
 
-## Frequently Bought Together
+## 🛒 Frequently Bought Together
 
 * [How to Set Up](helpdesk/offers/create-fbt.md)
 * [Display Settings](helpdesk/design/fbt-display.md)
 
-## Volume Discount
+## 📊 Volume Discount
 
 * [How to Set Up](helpdesk/offers/create-volume-discount.md)
 * [Display Settings](helpdesk/design/volume-display.md)
 
-## Bundle Builder
+## 🧩 Bundle Builder
 
 * [How to Set Up](helpdesk/offers/create-bundle-builder.md)
 * [Display Settings](helpdesk/design/bundle-builder-display.md)
 
-## Mix-and-Match Bundle
+## 🎯 Mix-and-Match Bundle
 
 * [How to Set Up](helpdesk/offers/create-mix-match.md)
 * [Display Settings](helpdesk/design/mix-match-display.md)
 
-## Product Fixed Bundle
+## 📦 Product Fixed Bundle
 
 * [How to Set Up](helpdesk/offers/create-product-fixed-bundle.md)
 * [Display Settings](helpdesk/design/product-fixed-display.md)
 
-## Analytics
+## 📈 Analytics
 
 * [Analytics Overview](helpdesk/analytics/analytics-overview.md)
 * [Offer Performance](helpdesk/analytics/offer-performance.md)
 
-## FAQ
+## ❓ FAQ
 
 * [Frequently Asked Questions](helpdesk/faq.md)
