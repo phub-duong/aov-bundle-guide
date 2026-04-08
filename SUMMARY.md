@@ -32,7 +32,6 @@
 ## 📈 Analytics
 
 * [Analytics Overview](helpdesk/analytics/analytics-overview.md)
-* [Offer Performance](helpdesk/analytics/offer-performance.md)
 
 ## ❓ FAQ
 
