@@ -2,12 +2,6 @@
 
 * [Welcome](helpdesk/index.md)
 
-## Getting Started
-
-* [Install the App](helpdesk/getting-started/install-app.md)
-* [Dashboard Overview](helpdesk/getting-started/dashboard-overview.md)
-* [Quick Start](helpdesk/getting-started/quick-start.md)
-
 ## Frequently Bought Together
 
 * [How to Set Up](helpdesk/offers/create-fbt.md)
