@@ -47,15 +47,50 @@ Whether you're a first-time merchant or a seasoned Shopify pro, AOV.ai Bundle is
 
 ## What's next?
 
-Choose a bundle type to get started:
+Here's a quick look at the bundle types you can create:
 
-| | Bundle Type | Description |
-|---|-------------|-------------|
-| 🛒 | [**Frequently Bought Together**](offers/create-fbt.md) | Show related items on the product page that are commonly purchased together with a discount. |
-| 📊 | [**Volume Discount**](offers/create-volume-discount.md) | Encourage buying more of the same product with tiered discounts — the more they buy, the more they save. |
-| 📦 | [**Product Fixed Bundle**](offers/create-product-fixed-bundle.md) | Offer a pre-made package of products sold together at a discounted price. |
-| 🧩 | [**Bundle Builder**](offers/create-bundle-builder.md) | Let customers build their own bundle from a product set with progressive discounts. |
-| 🎯 | [**Mix & Match Bundle**](offers/create-mix-match.md) | Give shoppers the flexibility to create their own ideal pack by choosing from different product options. |
+<table data-view="cards">
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th data-hidden data-card-cover data-type="files"></th>
+<th data-hidden data-card-target data-type="content-ref"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Frequently Bought Together</strong></td>
+<td>Show related items on the product page that are commonly purchased together with a discount.</td>
+<td><a href="/.gitbook/assets/create-fbt/step-3.png">step-3.png</a></td>
+<td><a href="offers/create-fbt.md">create-fbt.md</a></td>
+</tr>
+<tr>
+<td><strong>Volume Discount</strong></td>
+<td>Encourage buying more of the same product with tiered discounts — the more they buy, the more they save.</td>
+<td><a href="/.gitbook/assets/create-volume-discount/step-3.png">step-3.png</a></td>
+<td><a href="offers/create-volume-discount.md">create-volume-discount.md</a></td>
+</tr>
+<tr>
+<td><strong>Product Fixed Bundle</strong></td>
+<td>Offer a pre-made package of products sold together at a discounted price.</td>
+<td><a href="/.gitbook/assets/create-product-fixed-bundle/step-2.png">step-2.png</a></td>
+<td><a href="offers/create-product-fixed-bundle.md">create-product-fixed-bundle.md</a></td>
+</tr>
+<tr>
+<td><strong>Bundle Builder</strong></td>
+<td>Let customers build their own bundle from a product set with progressive discounts.</td>
+<td><a href="/.gitbook/assets/create-bundle-builder/step-2.png">step-2.png</a></td>
+<td><a href="offers/create-bundle-builder.md">create-bundle-builder.md</a></td>
+</tr>
+<tr>
+<td><strong>Mix &amp; Match Bundle</strong></td>
+<td>Give shoppers the flexibility to create their own ideal pack by choosing from different product options.</td>
+<td><a href="/.gitbook/assets/create-mix-match/step-2.png">step-2.png</a></td>
+<td><a href="offers/create-mix-match.md">create-mix-match.md</a></td>
+</tr>
+</tbody>
+</table>
 
 ## Need Help?
 
