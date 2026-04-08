@@ -1,5 +1,7 @@
 # Table of contents
 
+## Getting Started
+
 * [Welcome](helpdesk/index.md)
 
 ## Frequently Bought Together
