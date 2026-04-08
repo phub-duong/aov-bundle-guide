@@ -60,22 +60,16 @@ Here's a quick look at the bundle types you can create:
 </thead>
 <tbody>
 <tr>
-<td><strong>Frequently Bought Together</strong></td>
-<td>Show related items on the product page that are commonly purchased together with a discount.</td>
-<td><a href="/.gitbook/assets/bundle-covers/fbt.png">fbt.png</a></td>
-<td><a href="offers/create-fbt.md">create-fbt.md</a></td>
-</tr>
-<tr>
 <td><strong>Volume Discount</strong></td>
 <td>Encourage buying more of the same product with tiered discounts — the more they buy, the more they save.</td>
 <td><a href="/.gitbook/assets/bundle-covers/volume-discount.png">volume-discount.png</a></td>
 <td><a href="offers/create-volume-discount.md">create-volume-discount.md</a></td>
 </tr>
 <tr>
-<td><strong>Product Fixed Bundle</strong></td>
-<td>Offer a pre-made package of products sold together at a discounted price.</td>
-<td><a href="/.gitbook/assets/bundle-covers/product-fixed-bundle.png">product-fixed-bundle.png</a></td>
-<td><a href="offers/create-product-fixed-bundle.md">create-product-fixed-bundle.md</a></td>
+<td><strong>Frequently Bought Together</strong></td>
+<td>Show related items on the product page that are commonly purchased together with a discount.</td>
+<td><a href="/.gitbook/assets/bundle-covers/fbt.png">fbt.png</a></td>
+<td><a href="offers/create-fbt.md">create-fbt.md</a></td>
 </tr>
 <tr>
 <td><strong>Bundle Builder</strong></td>
@@ -88,6 +82,12 @@ Here's a quick look at the bundle types you can create:
 <td>Give shoppers the flexibility to create their own ideal pack by choosing from different product options.</td>
 <td><a href="/.gitbook/assets/bundle-covers/mix-match.png">mix-match.png</a></td>
 <td><a href="offers/create-mix-match.md">create-mix-match.md</a></td>
+</tr>
+<tr>
+<td><strong>Product Fixed Bundle</strong></td>
+<td>Offer a pre-made package of products sold together at a discounted price.</td>
+<td><a href="/.gitbook/assets/bundle-covers/product-fixed-bundle.png">product-fixed-bundle.png</a></td>
+<td><a href="offers/create-product-fixed-bundle.md">create-product-fixed-bundle.md</a></td>
 </tr>
 </tbody>
 </table>

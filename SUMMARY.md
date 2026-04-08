@@ -4,15 +4,15 @@
 
 * [Welcome](helpdesk/index.md)
 
-## 🛒 Frequently Bought Together
-
-* [How to Set Up](helpdesk/offers/create-fbt.md)
-* [Display Settings](helpdesk/design/fbt-display.md)
-
 ## 📊 Volume Discount
 
 * [How to Set Up](helpdesk/offers/create-volume-discount.md)
 * [Display Settings](helpdesk/design/volume-display.md)
+
+## 🛒 Frequently Bought Together
+
+* [How to Set Up](helpdesk/offers/create-fbt.md)
+* [Display Settings](helpdesk/design/fbt-display.md)
 
 ## 🧩 Bundle Builder
 
