@@ -11,8 +11,6 @@ Customize how the Mix-and-Match Bundle widget looks on your storefront. Go to **
 
 ## Steps
 
-### Step 1: Configure widget content
-
 1. **Select layout widget**
    - Choose the layout that best fits your bundle page design.
 
@@ -27,21 +25,19 @@ Customize how the Mix-and-Match Bundle widget looks on your storefront. Go to **
 
 ![Widget content settings](/.gitbook/assets/mix-match-display/display-step-1.png)
 
-### Step 2: Theme and content settings
-
-Click **Edit widget** to access the full design editor.
+4. Click **Edit widget** to access the full design editor.
 
 #### Theme setting
 
 This tab controls the **visual style** of the Mix-and-Match Bundle widget.
 
-1. **Color styles** — Choose between:
+5. **Color styles** — Choose between:
    - **Basic** — Pick a primary and secondary color for automatic styling.
    - **Advanced** — Set colors individually:
      - **General**: Primary text, secondary text, price color.
      - **Option**: Border unselected, selected border, background quantity, quantity text.
      - **Badge discount**: Background and text colors.
-2. **Themes** — Choose a preset color theme from the available options.
+6. **Themes** — Choose a preset color theme from the available options.
 
 ![Theme settings](/.gitbook/assets/mix-match-display/display-step-2a.png)
 
@@ -49,22 +45,17 @@ This tab controls the **visual style** of the Mix-and-Match Bundle widget.
 
 This tab controls the **text labels** inside the widget.
 
-1. **Widget text labels** — Customize:
+7. **Widget text labels** — Customize:
    - Option names and descriptions.
    - Bundle summary labels.
    - Button text and badge text.
-2. **Translations** — Click **Translation**, select a language, and translate each label. Keep variables intact.
+8. **Translations** — Click **Translation**, select a language, and translate each label. Keep variables intact.
 
 ![Content settings](/.gitbook/assets/mix-match-display/display-step-2b.png)
 
-### Step 3: Preview and save
-
-Look at the **live preview panel on the right** to see your changes. When satisfied, click **Save** to apply your settings.
+9. Look at the **live preview panel on the right** to see your changes. When satisfied, click **Save** to apply your settings.
 
 ![Preview and save](/.gitbook/assets/mix-match-display/display-step-3.png)
-
-
-Your Mix-and-Match Bundle widget is now customized and ready for customers to build their own bundles!
 
 ## What's Next
 

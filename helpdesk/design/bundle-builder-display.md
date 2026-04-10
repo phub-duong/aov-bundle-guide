@@ -11,8 +11,6 @@ Customize how the Bundle Builder widget looks on your storefront. Go to **AOV.ai
 
 ## Steps
 
-### Step 1: Configure widget content
-
 1. **Product layout**
    - Choose how products are displayed within each category on the bundle page.
 
@@ -33,27 +31,25 @@ Customize how the Bundle Builder widget looks on your storefront. Go to **AOV.ai
 
 ![Widget content settings](/.gitbook/assets/bundle-builder-display/display-step-1.png)
 
-### Step 2: Theme and content settings
-
-Click **Edit widget** to access detailed design customization.
+4. Click **Edit widget** to access detailed design customization.
 
 #### Theme setting
 
 This tab controls the **visual style** of the Bundle Builder widget.
 
-1. **General colors**:
+5. **General colors**:
    - **Background**: Page and card backgrounds.
    - **Header color**: Header section color.
    - **Total price color**: Color for the total price display.
    - **Divider color**: Color for section dividers.
    - **Icon, price color**: Colors for icons and price text.
-2. **Product card colors**:
+6. **Product card colors**:
    - **Background product**: Default product card background.
    - **Selected background** / **Selected border**: Colors when a product is selected.
    - **Unselect background** / **Unselect border**: Colors for unselected products.
-3. **Button colors**: Customize the **Confirm** button background and text colors.
-4. **Badge & saving colors**: Badge background, text, and saving tag colors.
-5. **Themes** — Choose a preset color theme.
+7. **Button colors**: Customize the **Confirm** button background and text colors.
+8. **Badge & saving colors**: Badge background, text, and saving tag colors.
+9. **Themes** — Choose a preset color theme.
 
 ![Theme settings](/.gitbook/assets/bundle-builder-display/display-step-2a.png)
 
@@ -61,25 +57,20 @@ This tab controls the **visual style** of the Bundle Builder widget.
 
 This tab controls the **text labels** inside the widget.
 
-1. **Summary card labels** — Customize all text shown in the bundle summary:
-   - **'Total' label**, **'Confirm' button**, **Total for items label**, **Save label**, **'GIFT' label**.
-2. **Category rule labels** — Customize validation messages:
-   - **Category Equal Validation Messages**: Shown when exact quantity is required.
-   - **Category At Least Validation Messages**: Shown when minimum quantity is required.
-   - **Badge Equal** / **Badge Most** / **Badge Least**: Badge text for quantity rules.
-3. **Stock validation** — Customize the **Stock Validation Message**.
-4. **Translations** — Click **Translation**, select a language, and translate each label.
+10. **Summary card labels** — Customize all text shown in the bundle summary:
+    - **'Total' label**, **'Confirm' button**, **Total for items label**, **Save label**, **'GIFT' label**.
+11. **Category rule labels** — Customize validation messages:
+    - **Category Equal Validation Messages**: Shown when exact quantity is required.
+    - **Category At Least Validation Messages**: Shown when minimum quantity is required.
+    - **Badge Equal** / **Badge Most** / **Badge Least**: Badge text for quantity rules.
+12. **Stock validation** — Customize the **Stock Validation Message**.
+13. **Translations** — Click **Translation**, select a language, and translate each label.
 
 ![Content settings](/.gitbook/assets/bundle-builder-display/display-step-2b.png)
 
-### Step 3: Preview and save
-
-Look at the **live preview panel on the right** to see your changes in real time. When you are satisfied, click **Save** to apply your settings.
+14. Look at the **live preview panel on the right** to see your changes in real time. When you are satisfied, click **Save** to apply your settings.
 
 ![Preview and save](/.gitbook/assets/bundle-builder-display/display-step-3.png)
-
-
-Your Bundle Builder widget is now styled and ready for customers to create their own custom bundles!
 
 ## What's Next
 

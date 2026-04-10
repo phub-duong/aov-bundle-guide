@@ -17,10 +17,6 @@ Product Fixed Bundle lets you create a fixed set of products and sell them as a 
 
 ## Steps
 
-### Step 1: Create a new Product Fixed Bundle offer
-
-Navigate to the offer creation page and select Product Fixed Bundle.
-
 1. Go to **AOV.ai Bundle Discounts > Offers**.
 2. Click **Create offer**.
 3. Select **Product Fixed Bundle** from the offer type list.
@@ -28,78 +24,55 @@ Navigate to the offer creation page and select Product Fixed Bundle.
 
 ![Select Product Fixed Bundle offer type](/.gitbook/assets/create-product-fixed-bundle/step-1.png)
 
-### Step 2: Add component products
-
-Select the products that will be included in the fixed bundle.
-
-1. In the **Components** section, click **Browse** to add products to the bundle.
-2. The summary shows your current usage:
+5. In the **Components** section, click **Browse** to add products to the bundle.
+6. The summary shows your current usage:
    - **Bundled products**: How many products are in the bundle (out of the limit).
    - **Options**: The number of product options used.
    - **Variants**: The number of variant combinations.
-3. For each product, configure:
+7. For each product, configure:
    - **Group by** — Choose how variants are grouped.
    - **Variants** — Select which variants to include.
-4. (Optional) Toggle **Show products included in bundle** to display all child products as a short list on the storefront.
+8. (Optional) Toggle **Show products included in bundle** to display all child products as a short list on the storefront.
 
 ![Add component products](/.gitbook/assets/create-product-fixed-bundle/step-2.png)
 
-### Step 3: Configure offer details and pricing
-
-Set the discount method and manage variant pricing.
-
-1. In the **Offer details** section, select a **Discount method**:
+9. In the **Offer details** section, select a **Discount method**:
    - **Percentage** — Discount a percentage off the total (e.g., 15% off).
    - **Fixed amount** — Discount a specific dollar amount.
-2. Enter the **Value** for your discount.
-3. Click **Apply** to update the pricing for all variants.
-4. Review the variant pricing table:
-   - **Original Price** — The sum of individual variant prices.
-   - **Displayed price** — The final bundle price shown to customers (adjustable).
-5. (Optional) Use **Apply a price to all selected variants** to bulk-update displayed prices.
+10. Enter the **Value** for your discount.
+11. Click **Apply** to update the pricing for all variants.
+12. Review the variant pricing table:
+    - **Original Price** — The sum of individual variant prices.
+    - **Displayed price** — The final bundle price shown to customers (adjustable).
+13. (Optional) Use **Apply a price to all selected variants** to bulk-update displayed prices.
 
 ![Configure pricing](/.gitbook/assets/create-product-fixed-bundle/step-3.png)
 
-### Step 4: Set offer information and status
-
-Configure the bundle title and activation status.
-
-1. In the **Offer information** section:
-   - **Offer title** — Enter the bundle name. This title is displayed as the product name on the storefront and is visible to customers.
-2. Set the **Status**:
-   - **Active** — The bundle is live and visible to customers.
-   - **Draft** — The bundle is saved but not published.
-3. (Optional) Configure **Schedule** — Set **Start date** and optionally toggle **Set end date**.
+14. In the **Offer information** section:
+    - **Offer title** — Enter the bundle name. This title is displayed as the product name on the storefront and is visible to customers.
+15. Set the **Status**:
+    - **Active** — The bundle is live and visible to customers.
+    - **Draft** — The bundle is saved but not published.
+16. (Optional) Configure **Schedule** — Set **Start date** and optionally toggle **Set end date**.
 
 ![Set offer information](/.gitbook/assets/create-product-fixed-bundle/step-4.png)
 
-### Step 5: Configure advanced settings
-
-Fine-tune additional bundle options.
-
-1. In the **Advanced settings** section:
-   - **Multipack selling** — Toggle to allow customers to buy multiple fixed bundles with increasing discounts (e.g., 2 packs at 5% off, 3 packs at 10% off).
-   - **Discount combinations** — Allow combining with product, order, or shipping discounts.
-   - **Customer eligibility** — Choose **All customers** or **Specific customer segment**.
-2. (Optional) Configure the widget to display on component product pages:
-   - Click **Add widget** to integrate the widget into your theme.
+17. In the **Advanced settings** section:
+    - **Multipack selling** — Toggle to allow customers to buy multiple fixed bundles with increasing discounts (e.g., 2 packs at 5% off, 3 packs at 10% off).
+    - **Discount combinations** — Allow combining with product, order, or shipping discounts.
+    - **Customer eligibility** — Choose **All customers** or **Specific customer segment**.
+18. (Optional) Configure the widget to display on component product pages:
+    - Click **Add widget** to integrate the widget into your theme.
 
 ![Configure advanced settings](/.gitbook/assets/create-product-fixed-bundle/step-5.png)
 
-### Step 6: Preview and save
-
-Review the bundle before publishing.
-
-1. Click **Preview** to see how the bundle product will appear on your storefront.
-2. Click **Save** to create the fixed bundle.
-3. The bundle will appear as a new product in your Shopify store. Click **View in Shopify** to see it.
+19. Click **Preview** to see how the bundle product will appear on your storefront.
+20. Click **Save** to create the fixed bundle.
+21. The bundle will appear as a new product in your Shopify store. Click **View in Shopify** to see it.
 
 > **Info:** If the bundle contains many variants, creating the offer may take longer than usual. Please wait until the process completes.
 
 ![Preview and save](/.gitbook/assets/create-product-fixed-bundle/step-6.png)
-
-
-Use **Product Fixed Bundle** to sell curated product sets as a single bundled item with automatic discounts. Start creating your first fixed bundle today!
 
 ## What's Next
 
