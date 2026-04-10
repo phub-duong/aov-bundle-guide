@@ -17,6 +17,10 @@ Bundle Builder lets you create a dedicated bundle page where customers can pick 
 
 ## Steps
 
+### Step 1: Create a new Bundle Builder offer
+
+Navigate to the offer creation page and select Bundle Builder.
+
 1. Go to **AOV.ai Bundle Discounts > Offers**.
 2. Click **Create offer**.
 3. Select **Bundle Builder** from the offer type list.
@@ -24,53 +28,76 @@ Bundle Builder lets you create a dedicated bundle page where customers can pick 
 
 ![Select Bundle Builder offer type](/.gitbook/assets/create-bundle-builder/step-1.png)
 
-5. In the **Bundle products** section, click **Add category** to create product groups.
-6. For each category, configure:
+### Step 2: Add product categories
+
+Organize your bundle products into categories for easy customer browsing.
+
+1. In the **Bundle products** section, click **Add category** to create product groups.
+2. For each category, configure:
    - **Category name** — Enter a descriptive name (e.g., "Tops", "Accessories").
    - **Description** — Add a short description for the category.
    - **Products** — Click **Browse** to select products for this category.
-7. Set the **Quantity rule** for each category to define how many items customers must select.
-8. Add as many categories as needed by clicking **Add category** again.
+3. Set the **Quantity rule** for each category to define how many items customers must select.
+4. Add as many categories as needed by clicking **Add category** again.
 
 ![Add product categories](/.gitbook/assets/create-bundle-builder/step-2.png)
 
-9. In the **Discount settings** section, toggle **Apply increasing discounts based on the number of products in the bundle** if you want tiered pricing.
-10. Select a **Discount type**:
-    - **Percentage** — Discount a percentage off the total.
-    - **Fixed amount** — Discount a specific dollar amount.
-11. For each tier, configure:
-    - **Buy at least** — The minimum number of items to qualify.
-    - **Value** — The discount value for that tier.
-12. Click **Add tier** to create additional discount levels.
+### Step 3: Configure discount settings
+
+Set up tiered discounts that increase as customers add more products.
+
+1. In the **Discount settings** section, toggle **Apply increasing discounts based on the number of products in the bundle** if you want tiered pricing.
+2. Select a **Discount type**:
+   - **Percentage** — Discount a percentage off the total.
+   - **Fixed amount** — Discount a specific dollar amount.
+3. For each tier, configure:
+   - **Buy at least** — The minimum number of items to qualify.
+   - **Value** — The discount value for that tier.
+4. Click **Add tier** to create additional discount levels.
 
 ![Configure discount settings](/.gitbook/assets/create-bundle-builder/step-3.png)
 
-13. In the **Offer content** section, customize:
-    - **Title**: The main headline on the bundle page.
-    - **Description**: A subtitle explaining the bundle.
-    - Use **Add variable** to insert dynamic values.
-14. (Optional) Upload a **Banner image** for the bundle page header (Recommended: 1400x350 px).
-15. (Optional) Configure the **Promotion** section to promote the bundle on product pages:
-    - **Show on included products page** — Display a widget on component product pages to promote your bundle offer.
-    - Customize **Promotion Title**, **Badge Label**, **Button Label**, **Tag Label**, and **See More Label**.
+### Step 4: Customize offer content and promotion
+
+Configure the text and promotional elements that customers see.
+
+1. In the **Offer content** section, customize:
+   - **Title**: The main headline on the bundle page.
+   - **Description**: A subtitle explaining the bundle.
+   - Use **Add variable** to insert dynamic values.
+2. (Optional) Upload a **Banner image** for the bundle page header (Recommended: 1400x350 px).
+3. (Optional) Configure the **Promotion** section to promote the bundle on product pages:
+   - **Show on included products page** — Display a widget on component product pages to promote your bundle offer.
+   - Customize **Promotion Title**, **Badge Label**, **Button Label**, **Tag Label**, and **See More Label**.
 
 ![Customize offer content](/.gitbook/assets/create-bundle-builder/step-4.png)
 
-16. In the **Advanced settings** section, configure:
-    - **Schedule** — Set **Start date** and optionally toggle **Set end date**.
-    - **Customer eligibility** — Choose **All customers** or **Specific customer segment**.
-    - **Maximum discount uses** — Limit total uses or one use per customer.
-    - **Discount combinations** — Allow combining with product, order, or shipping discounts.
-17. Enter an **Offer name** in the **Offer information** section. This name is internal only.
-18. Set the **Status** to **Active** or **Draft**.
+### Step 5: Configure advanced settings
+
+Fine-tune scheduling, eligibility, and other options.
+
+1. In the **Advanced settings** section, configure:
+   - **Schedule** — Set **Start date** and optionally toggle **Set end date**.
+   - **Customer eligibility** — Choose **All customers** or **Specific customer segment**.
+   - **Maximum discount uses** — Limit total uses or one use per customer.
+   - **Discount combinations** — Allow combining with product, order, or shipping discounts.
+2. Enter an **Offer name** in the **Offer information** section. This name is internal only.
+3. Set the **Status** to **Active** or **Draft**.
 
 ![Configure advanced settings](/.gitbook/assets/create-bundle-builder/step-5.png)
 
-19. Look at the **Preview** panel to see how your bundle page will appear to customers.
-20. Click **Save** to create the bundle.
-21. If prompted, click **Configure theme** to add the bundle page to your store navigation.
+### Step 6: Preview and save
+
+Review the bundle page before publishing.
+
+1. Look at the **Preview** panel to see how your bundle page will appear to customers.
+2. Click **Save** to create the bundle.
+3. If prompted, click **Configure theme** to add the bundle page to your store navigation.
 
 ![Preview and save](/.gitbook/assets/create-bundle-builder/step-6.png)
+
+
+Use **Bundle Builder** to let customers create their own custom bundles while enjoying tiered discounts. Start building your first bundle page today!
 
 ## What's Next
 

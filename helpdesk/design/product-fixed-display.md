@@ -11,6 +11,8 @@ Customize how the child product list widget looks on your storefront. Go to **AO
 
 ## Steps
 
+### Step 1: Configure widget layout and content
+
 1. **Select layout**
    - **Classic** — A traditional product list layout.
    - **Minimals** — A compact, minimalist display.
@@ -24,20 +26,22 @@ Customize how the child product list widget looks on your storefront. Go to **AO
 
 ![Widget layout and content](/.gitbook/assets/product-fixed-display/display-step-1.png)
 
-4. Click **Edit widget** to access the full design editor.
+### Step 2: Theme and content settings
+
+Click **Edit widget** to access the full design editor.
 
 #### Theme setting
 
 This tab controls the **visual style** of the child product list widget.
 
-5. **Color styles** — Choose between:
+1. **Color styles** — Choose between:
    - **Basic** — Pick a primary and secondary color for automatic styling.
    - **Advanced** — Set colors individually:
      - **General**: Primary text, secondary text.
      - **Border**: Border color for product cards.
      - **Quantity**: Background quantity and quantity text colors.
      - **Saving tag**: Background and text colors for the saving badge.
-6. **Themes** — Choose a preset color theme.
+2. **Themes** — Choose a preset color theme.
 
 ![Theme settings](/.gitbook/assets/product-fixed-display/display-step-2a.png)
 
@@ -45,16 +49,21 @@ This tab controls the **visual style** of the child product list widget.
 
 This tab controls the **text labels** inside the widget.
 
-7. **Widget text labels** — Customize:
+1. **Widget text labels** — Customize:
    - Saving text and description labels.
    - "View more detail" link text.
-8. **Translations** — Click **Translation**, select a language, and translate each label.
+2. **Translations** — Click **Translation**, select a language, and translate each label.
 
 ![Content settings](/.gitbook/assets/product-fixed-display/display-step-2b.png)
 
-9. Look at the **live preview panel on the right** to see your changes. When satisfied, click **Save** to apply your settings.
+### Step 3: Preview and save
+
+Look at the **live preview panel on the right** to see your changes. When satisfied, click **Save** to apply your settings.
 
 ![Preview and save](/.gitbook/assets/product-fixed-display/display-step-3.png)
+
+
+Your Product Fixed Bundle widget is now customized and ready to showcase the bundled products to your customers!
 
 ## What's Next
 

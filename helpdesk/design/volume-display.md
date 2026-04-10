@@ -11,6 +11,8 @@ Customize how the Volume Discount widget looks on your storefront. Go to **AOV.a
 
 ## Steps
 
+### Step 1: Configure widget layout and content
+
 1. **Layout**
    - **Horizontal** — Discount tiers are displayed in a row.
    - **Vertical** — Discount tiers are stacked in a column.
@@ -31,13 +33,15 @@ Customize how the Volume Discount widget looks on your storefront. Go to **AOV.a
 
 ![Widget layout and content](/.gitbook/assets/volume-display/display-step-1.png)
 
-5. Click **Edit widget** to access detailed design options.
+### Step 2: Theme and content settings
+
+Click **Edit widget** to access detailed design options.
 
 #### Theme setting
 
 This tab controls the **visual style** of the Volume Discount widget.
 
-6. **Color styles** — Choose between:
+1. **Color styles** — Choose between:
    - **Basic** — Pick a primary and secondary color. Applied automatically across the widget.
    - **Advanced** — Set colors individually:
      - **General**: Primary text, secondary text, background, border.
@@ -47,8 +51,8 @@ This tab controls the **visual style** of the Volume Discount widget.
      - **Button**: Background and text color.
      - **Badge**: Background and text color for tier badges.
      - **Saving**: Background and text color for saving tags.
-7. **Themes** — Choose a preset color theme (Basic, Forest, Ocean Blue, Bloody Mary, Spring, Twilight, Summer, Black Friday, Christmas, and more).
-8. **Display options**:
+2. **Themes** — Choose a preset color theme (Basic, Forest, Ocean Blue, Bloody Mary, Spring, Twilight, Summer, Black Friday, Christmas, and more).
+3. **Display options**:
    - **Show checkbox** — Show a checkbox next to each tier.
    - **Show line title** — Display a title line for each tier.
    - **Gradient background** — Apply a gradient to the selected tier.
@@ -59,17 +63,22 @@ This tab controls the **visual style** of the Volume Discount widget.
 
 This tab controls the **text labels** inside the widget.
 
-9. **Widget text labels** — Customize all labels displayed in the volume table:
+1. **Widget text labels** — Customize all labels displayed in the volume table:
    - Tier titles, subtitles, badge text.
    - Saving text and discount descriptions.
    - Button text ("Add to cart" or "Grab the deal").
-10. **Translations** — Click **Translation**, select a language, and customize each label. Keep variables like `{{discount_value}}` intact.
+2. **Translations** — Click **Translation**, select a language, and customize each label. Keep variables like `{{discount_value}}` intact.
 
 ![Content settings](/.gitbook/assets/volume-display/display-step-2b.png)
 
-11. Look at the **live preview panel on the right** to see your changes in real time. When you are satisfied with the design, click **Save** to apply your settings.
+### Step 3: Preview and save
+
+Look at the **live preview panel on the right** to see your changes in real time. When you are satisfied with the design, click **Save** to apply your settings.
 
 ![Preview and save](/.gitbook/assets/volume-display/display-step-3.png)
+
+
+Your Volume Discount widget is now customized and ready to display tiered savings to your customers!
 
 ## What's Next
 
